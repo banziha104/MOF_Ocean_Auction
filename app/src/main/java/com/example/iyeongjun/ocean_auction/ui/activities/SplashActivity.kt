@@ -1,7 +1,8 @@
-package com.example.iyeongjun.ocean_auction.ui.activities.splash
+package com.example.iyeongjun.ocean_auction.ui.activities
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
+import com.example.iyeongjun.ocean_auction.R
 
 class SplashActivity : AppCompatActivity() {
 

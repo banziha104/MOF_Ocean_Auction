@@ -22,4 +22,5 @@ ext {
     supportLibVersion = '27.1.1'
     lottieVersion = '2.5.4'
     multidexVersion = '1.0.1'
+//    xmltojsonVersion = '1.4.4'
 }
