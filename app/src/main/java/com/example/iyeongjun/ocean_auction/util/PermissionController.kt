@@ -20,7 +20,6 @@ class PermissionController(val activity: AppCompatActivity, val permissions: Arr
         } else {
             callInit(activity)
         }
-
     }
 
 
