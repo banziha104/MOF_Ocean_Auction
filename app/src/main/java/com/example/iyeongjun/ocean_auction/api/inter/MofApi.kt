@@ -17,27 +17,24 @@ interface MofApi {
     ): Call<ResponseBody>
 
     @GET("/1192000/openapi/service/ManageAcst0400Service/getAcst0400List")
-    fun getMOFData(
+    fun getMOFDataWithStoreCode(
             @Query("serviceKey", encoded = true) serviceKey: String,
             @Query("numOfRows") numOfRows: Int,
             @Query("pageNo") pageNo: Int,
             @Query("fromDt") fromDt: Int,
             @Query("toDt") toDt: Int,
-            @Query("csmtmktNm") csmtmktNm: String
-    ):
-            Call<ResponseBody>
+            @Query("mxtrCode") mxtrCode: Int
+    ): Call<ResponseBody>
 
     @GET("/1192000/openapi/service/ManageAcst0400Service/getAcst0400List")
-    fun getMOFData(
+    fun getMOFDataWithFishCode(
             @Query("serviceKey", encoded = true) serviceKey: String,
             @Query("numOfRows") numOfRows: Int,
             @Query("pageNo") pageNo: Int,
             @Query("fromDt") fromDt: Int,
             @Query("toDt") toDt: Int,
-            @Query("mprcStdCode") mprcStdCode: Int,
-            @Query("mprcStdCodeNm") mprcStdCodeNm: String
-    ):
-            Call<ResponseBody>
+            @Query("mprcStdCode") mprcStdCode: Int
+    ): Call<ResponseBody>
 
 
 }
