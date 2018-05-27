@@ -10,11 +10,11 @@ import retrofit2.http.Query
 interface MofApi {
     @GET("/1192000/openapi/service/ManageAcst0400Service/getAcst0400List")
     fun getMOFData(
-            @Query("serviceKey", encoded = true) serviceKey: String,
-            @Query("numOfRows") numOfRows: Int,
-            @Query("pageNo") pageNo: Int,
-            @Query("fromDt") fromDt: Int,
-            @Query("toDt") toDt: Int
+            @Query("serviceKey", encoded = true) serviceKey: String = AUTH_KEY,
+            @Query("numOfRows") numOfRows: Int = 50,
+            @Query("pageNo") pageNo: Int = 1,
+            @Query("fromDt") fromDt: Int = 20180303,
+            @Query("toDt") toDt: Int = 20180305
     ): Call<ResponseBody>
 
     @GET("/1192000/openapi/service/ManageAcst0400Service/getAcst0400List")
