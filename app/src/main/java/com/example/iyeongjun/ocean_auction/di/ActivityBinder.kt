@@ -4,7 +4,6 @@ import com.example.iyeongjun.ocean_auction.di.ui.MainModule
 import com.example.iyeongjun.ocean_auction.ui.activities.MainActivity
 import dagger.Module
 import dagger.android.ContributesAndroidInjector
-import javax.inject.Singleton
 
 /**
  * Created by iyeongjun on 2018. 3. 4..

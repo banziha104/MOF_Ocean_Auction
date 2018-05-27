@@ -1,6 +1,6 @@
 package com.example.iyeongjun.ocean_auction.di
 
-import android.app.Application
+import android.content.Context
 import com.example.iyeongjun.ocean_auction.Dagger2App
 import dagger.BindsInstance
 import dagger.Component
@@ -14,6 +14,7 @@ import javax.inject.Singleton
         ,ContextModule::class
         ,AndroidSupportInjectionModule::class
         ,EventModule::class
+        ,AppModule::class
 ))
 interface AppComponent : AndroidInjector<Dagger2App>{
 
@@ -21,7 +22,7 @@ interface AppComponent : AndroidInjector<Dagger2App>{
     interface Builder {
 
         @BindsInstance
-        fun application(app: Application): Builder
+        fun application(app: Context): Builder
 
         fun build(): AppComponent
     }

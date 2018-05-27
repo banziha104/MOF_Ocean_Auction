@@ -1,7 +1,6 @@
 package com.example.iyeongjun.ocean_auction.di.ui
 
 import com.example.iyeongjun.ocean_auction.api.inter.MofApi
-import com.example.iyeongjun.ocean_auction.const.AUTH_KEY
 import com.example.iyeongjun.ocean_auction.const.SERVER_URL
 import dagger.Module
 import dagger.Provides
@@ -13,7 +12,6 @@ import retrofit2.Retrofit
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
 import retrofit2.converter.simplexml.SimpleXmlConverterFactory
 import java.util.concurrent.TimeUnit
-import javax.inject.Singleton
 
 @Module
 class MainModule{
