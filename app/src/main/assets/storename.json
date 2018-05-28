@@ -1,0 +1,2556 @@
+{
+  "response": {
+    "header": {
+      "title": "수협 산지조합 위판장 현황",
+      "resultCode": "00",
+      "resultMsg": "정상"
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "mxtrCode": "346",
+            "mxtrNm": "강구수산업협동조합",
+            "csmtmktXode": "346003",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "346",
+            "mxtrNm": "강구수산업협동조합",
+            "csmtmktXode": "346002",
+            "csmtmktNm": "창포지점",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "346",
+            "mxtrNm": "강구수산업협동조합",
+            "csmtmktXode": "346001",
+            "csmtmktNm": "판매과",
+            "csgnrCo": "482",
+            "fshrbtCo": "633",
+            "sllllCo": "49",
+            "prvyyTotCnsgnAmount": "30942375020"
+          },
+          {
+            "mxtrCode": "311",
+            "mxtrNm": "강릉시수산업협동조합",
+            "csmtmktXode": "311001",
+            "csmtmktNm": "판매과",
+            "csgnrCo": "600",
+            "fshrbtCo": "630",
+            "sllllCo": "53",
+            "prvyyTotCnsgnAmount": "35626192125"
+          },
+          {
+            "mxtrCode": "311",
+            "mxtrNm": "강릉시수산업협동조합",
+            "csmtmktXode": "311002",
+            "csmtmktNm": "판매과",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "305",
+            "mxtrNm": "강원고성군수산업협동조합",
+            "csmtmktXode": "305003",
+            "csmtmktNm": "대진지점",
+            "csgnrCo": "303",
+            "fshrbtCo": "285",
+            "sllllCo": "11",
+            "prvyyTotCnsgnAmount": "12630621557"
+          },
+          {
+            "mxtrCode": "305",
+            "mxtrNm": "강원고성군수산업협동조합",
+            "csmtmktXode": "305002",
+            "csmtmktNm": "아야진지점",
+            "csgnrCo": "155",
+            "fshrbtCo": "171",
+            "sllllCo": "42",
+            "prvyyTotCnsgnAmount": "7623066300"
+          },
+          {
+            "mxtrCode": "305",
+            "mxtrNm": "강원고성군수산업협동조합",
+            "csmtmktXode": "305001",
+            "csmtmktNm": "판매사업과",
+            "csgnrCo": "324",
+            "fshrbtCo": "391",
+            "sllllCo": "42",
+            "prvyyTotCnsgnAmount": "14076700137"
+          },
+          {
+            "mxtrCode": "326",
+            "mxtrNm": "강진군수산업협동조합",
+            "csmtmktXode": "326002",
+            "csmtmktNm": "신전출장소",
+            "csgnrCo": "194",
+            "fshrbtCo": "216",
+            "sllllCo": "12",
+            "prvyyTotCnsgnAmount": "2898335050"
+          },
+          {
+            "mxtrCode": "326",
+            "mxtrNm": "강진군수산업협동조합",
+            "csmtmktXode": "326001",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "3195",
+            "fshrbtCo": "2126",
+            "sllllCo": "57",
+            "prvyyTotCnsgnAmount": "16034915800"
+          },
+          {
+            "mxtrCode": "334",
+            "mxtrNm": "거문도수산업협동조합",
+            "csmtmktXode": "334001",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "535",
+            "fshrbtCo": "542",
+            "sllllCo": "21",
+            "prvyyTotCnsgnAmount": "16908181655"
+          },
+          {
+            "mxtrCode": "353",
+            "mxtrNm": "거제수산업협동조합",
+            "csmtmktXode": "353011",
+            "csmtmktNm": "관포 위판장",
+            "csgnrCo": "671",
+            "fshrbtCo": "821",
+            "sllllCo": "27",
+            "prvyyTotCnsgnAmount": "1922385600"
+          },
+          {
+            "mxtrCode": "353",
+            "mxtrNm": "거제수산업협동조합",
+            "csmtmktXode": "353007",
+            "csmtmktNm": "구조라 위판장",
+            "csgnrCo": "178",
+            "fshrbtCo": "172",
+            "sllllCo": "10",
+            "prvyyTotCnsgnAmount": "1266655450"
+          },
+          {
+            "mxtrCode": "353",
+            "mxtrNm": "거제수산업협동조합",
+            "csmtmktXode": "353008",
+            "csmtmktNm": "능포 위판장",
+            "csgnrCo": "49",
+            "fshrbtCo": "53",
+            "sllllCo": "12",
+            "prvyyTotCnsgnAmount": "182834100"
+          },
+          {
+            "mxtrCode": "353",
+            "mxtrNm": "거제수산업협동조합",
+            "csmtmktXode": "353003",
+            "csmtmktNm": "대포 위판장",
+            "csgnrCo": "153",
+            "fshrbtCo": "174",
+            "sllllCo": "8",
+            "prvyyTotCnsgnAmount": "337682000"
+          },
+          {
+            "mxtrCode": "353",
+            "mxtrNm": "거제수산업협동조합",
+            "csmtmktXode": "353005",
+            "csmtmktNm": "성포 위판장",
+            "csgnrCo": "742",
+            "fshrbtCo": "856",
+            "sllllCo": "12",
+            "prvyyTotCnsgnAmount": "3959326950"
+          },
+          {
+            "mxtrCode": "353",
+            "mxtrNm": "거제수산업협동조합",
+            "csmtmktXode": "353010",
+            "csmtmktNm": "수산물가공사업단",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "353",
+            "mxtrNm": "거제수산업협동조합",
+            "csmtmktXode": "353002",
+            "csmtmktNm": "수산물유통사업단",
+            "csgnrCo": "2",
+            "fshrbtCo": "0",
+            "sllllCo": "1",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "353",
+            "mxtrNm": "거제수산업협동조합",
+            "csmtmktXode": "353004",
+            "csmtmktNm": "옥포 위판장",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "353",
+            "mxtrNm": "거제수산업협동조합",
+            "csmtmktXode": "353006",
+            "csmtmktNm": "외포 위판장",
+            "csgnrCo": "627",
+            "fshrbtCo": "787",
+            "sllllCo": "24",
+            "prvyyTotCnsgnAmount": "7306195850"
+          },
+          {
+            "mxtrCode": "353",
+            "mxtrNm": "거제수산업협동조합",
+            "csmtmktXode": "353001",
+            "csmtmktNm": "장승포 위판장",
+            "csgnrCo": "915",
+            "fshrbtCo": "1381",
+            "sllllCo": "26",
+            "prvyyTotCnsgnAmount": "11649115650"
+          },
+          {
+            "mxtrCode": "353",
+            "mxtrNm": "거제수산업협동조합",
+            "csmtmktXode": "353009",
+            "csmtmktNm": "지세포 지점",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "304",
+            "mxtrNm": "경기남부수산업협동조합",
+            "csmtmktXode": "304002",
+            "csmtmktNm": "경기남부 위판장",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "304",
+            "mxtrNm": "경기남부수산업협동조합",
+            "csmtmktXode": "304003",
+            "csmtmktNm": "궁평항사업소",
+            "csgnrCo": "713",
+            "fshrbtCo": "194",
+            "sllllCo": "72",
+            "prvyyTotCnsgnAmount": "16521173159"
+          },
+          {
+            "mxtrCode": "304",
+            "mxtrNm": "경기남부수산업협동조합",
+            "csmtmktXode": "304004",
+            "csmtmktNm": "궁평항사업소",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "304",
+            "mxtrNm": "경기남부수산업협동조합",
+            "csmtmktXode": "304001",
+            "csmtmktNm": "수원사업소",
+            "csgnrCo": "477",
+            "fshrbtCo": "2",
+            "sllllCo": "63",
+            "prvyyTotCnsgnAmount": "15526809065"
+          },
+          {
+            "mxtrCode": "354",
+            "mxtrNm": "경남 고성군수산업협동조합",
+            "csmtmktXode": "354004",
+            "csmtmktNm": "거류 위판장",
+            "csgnrCo": "4",
+            "fshrbtCo": "3",
+            "sllllCo": "1",
+            "prvyyTotCnsgnAmount": "68033000"
+          },
+          {
+            "mxtrCode": "354",
+            "mxtrNm": "경남 고성군수산업협동조합",
+            "csmtmktXode": "354005",
+            "csmtmktNm": "동해 위판장",
+            "csgnrCo": "52",
+            "fshrbtCo": "62",
+            "sllllCo": "10",
+            "prvyyTotCnsgnAmount": "293381000"
+          },
+          {
+            "mxtrCode": "354",
+            "mxtrNm": "경남 고성군수산업협동조합",
+            "csmtmktXode": "354008",
+            "csmtmktNm": "맥전포위판장",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "354",
+            "mxtrNm": "경남 고성군수산업협동조합",
+            "csmtmktXode": "354003",
+            "csmtmktNm": "삼산 위판장",
+            "csgnrCo": "16",
+            "fshrbtCo": "29",
+            "sllllCo": "4",
+            "prvyyTotCnsgnAmount": "325828000"
+          },
+          {
+            "mxtrCode": "354",
+            "mxtrNm": "경남 고성군수산업협동조합",
+            "csmtmktXode": "354001",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "298",
+            "fshrbtCo": "208",
+            "sllllCo": "31",
+            "prvyyTotCnsgnAmount": "9459242636"
+          },
+          {
+            "mxtrCode": "354",
+            "mxtrNm": "경남 고성군수산업협동조합",
+            "csmtmktXode": "354002",
+            "csmtmktNm": "하일 위판장",
+            "csgnrCo": "238",
+            "fshrbtCo": "350",
+            "sllllCo": "24",
+            "prvyyTotCnsgnAmount": "2382465600"
+          },
+          {
+            "mxtrCode": "354",
+            "mxtrNm": "경남 고성군수산업협동조합",
+            "csmtmktXode": "354006",
+            "csmtmktNm": "회화 위판장",
+            "csgnrCo": "15",
+            "fshrbtCo": "10",
+            "sllllCo": "3",
+            "prvyyTotCnsgnAmount": "117572000"
+          },
+          {
+            "mxtrCode": "354",
+            "mxtrNm": "경남 고성군수산업협동조합",
+            "csmtmktXode": "354007",
+            "csmtmktNm": "회화지점",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "510",
+            "mxtrNm": "경남정치망수산업협동조합",
+            "csmtmktXode": "510001",
+            "csmtmktNm": "지도과",
+            "csgnrCo": "157",
+            "fshrbtCo": "113",
+            "sllllCo": "1",
+            "prvyyTotCnsgnAmount": "594731800"
+          },
+          {
+            "mxtrCode": "508",
+            "mxtrNm": "경북어류양식수산업협동조합",
+            "csmtmktXode": "508001",
+            "csmtmktNm": "판매과",
+            "csgnrCo": "13",
+            "fshrbtCo": "1",
+            "sllllCo": "6",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "300",
+            "mxtrNm": "경인북부수산업협동조합",
+            "csmtmktXode": "300001",
+            "csmtmktNm": "판매사업소",
+            "csgnrCo": "258",
+            "fshrbtCo": "333",
+            "sllllCo": "9",
+            "prvyyTotCnsgnAmount": "8662801000"
+          },
+          {
+            "mxtrCode": "345",
+            "mxtrNm": "경주시수산업협동조합",
+            "csmtmktXode": "345001",
+            "csmtmktNm": "유통판매과",
+            "csgnrCo": "893",
+            "fshrbtCo": "1147",
+            "sllllCo": "68",
+            "prvyyTotCnsgnAmount": "42474592060"
+          },
+          {
+            "mxtrCode": "322",
+            "mxtrNm": "고창군수산업협동조합",
+            "csmtmktXode": "322001",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "322",
+            "mxtrNm": "고창군수산업협동조합",
+            "csmtmktXode": "322003",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "1",
+            "fshrbtCo": "0",
+            "sllllCo": "1",
+            "prvyyTotCnsgnAmount": "75660000"
+          },
+          {
+            "mxtrCode": "335",
+            "mxtrNm": "고흥군수산업협동조합",
+            "csmtmktXode": "335003",
+            "csmtmktNm": "거금도지점(일반)",
+            "csgnrCo": "257",
+            "fshrbtCo": "175",
+            "sllllCo": "21",
+            "prvyyTotCnsgnAmount": "4092109330"
+          },
+          {
+            "mxtrCode": "335",
+            "mxtrNm": "고흥군수산업협동조합",
+            "csmtmktXode": "335006",
+            "csmtmktNm": "고흥지점(일반)",
+            "csgnrCo": "16",
+            "fshrbtCo": "8",
+            "sllllCo": "7",
+            "prvyyTotCnsgnAmount": "1053940450"
+          },
+          {
+            "mxtrCode": "335",
+            "mxtrNm": "고흥군수산업협동조합",
+            "csmtmktXode": "335007",
+            "csmtmktNm": "과역지점(일반)",
+            "csgnrCo": "622",
+            "fshrbtCo": "401",
+            "sllllCo": "31",
+            "prvyyTotCnsgnAmount": "5266677642"
+          },
+          {
+            "mxtrCode": "335",
+            "mxtrNm": "고흥군수산업협동조합",
+            "csmtmktXode": "335002",
+            "csmtmktNm": "녹동지점(일반)",
+            "csgnrCo": "3092",
+            "fshrbtCo": "2236",
+            "sllllCo": "123",
+            "prvyyTotCnsgnAmount": "47525185200"
+          },
+          {
+            "mxtrCode": "335",
+            "mxtrNm": "고흥군수산업협동조합",
+            "csmtmktXode": "335010",
+            "csmtmktNm": "도덕지점(일반)",
+            "csgnrCo": "2",
+            "fshrbtCo": "0",
+            "sllllCo": "4",
+            "prvyyTotCnsgnAmount": "205600000"
+          },
+          {
+            "mxtrCode": "335",
+            "mxtrNm": "고흥군수산업협동조합",
+            "csmtmktXode": "335009",
+            "csmtmktNm": "벌교지점(일반)",
+            "csgnrCo": "591",
+            "fshrbtCo": "534",
+            "sllllCo": "53",
+            "prvyyTotCnsgnAmount": "8696881515"
+          },
+          {
+            "mxtrCode": "335",
+            "mxtrNm": "고흥군수산업협동조합",
+            "csmtmktXode": "335008",
+            "csmtmktNm": "신평지소(일반)",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "335",
+            "mxtrNm": "고흥군수산업협동조합",
+            "csmtmktXode": "335001",
+            "csmtmktNm": "판매과",
+            "csgnrCo": "432",
+            "fshrbtCo": "297",
+            "sllllCo": "53",
+            "prvyyTotCnsgnAmount": "2597427144"
+          },
+          {
+            "mxtrCode": "335",
+            "mxtrNm": "고흥군수산업협동조합",
+            "csmtmktXode": "335004",
+            "csmtmktNm": "풍양지소(일반)",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "335",
+            "mxtrNm": "고흥군수산업협동조합",
+            "csmtmktXode": "335005",
+            "csmtmktNm": "풍화지점(일반)",
+            "csgnrCo": "421",
+            "fshrbtCo": "370",
+            "sllllCo": "77",
+            "prvyyTotCnsgnAmount": "77696414100"
+          },
+          {
+            "mxtrCode": "347",
+            "mxtrNm": "구룡포수산업협동조합",
+            "csmtmktXode": "347004",
+            "csmtmktNm": "장기지점",
+            "csgnrCo": "383",
+            "fshrbtCo": "427",
+            "sllllCo": "42",
+            "prvyyTotCnsgnAmount": "11759337400"
+          },
+          {
+            "mxtrCode": "347",
+            "mxtrNm": "구룡포수산업협동조합",
+            "csmtmktXode": "347001",
+            "csmtmktNm": "판매과(1계)",
+            "csgnrCo": "820",
+            "fshrbtCo": "999",
+            "sllllCo": "107",
+            "prvyyTotCnsgnAmount": "79458335260"
+          },
+          {
+            "mxtrCode": "347",
+            "mxtrNm": "구룡포수산업협동조합",
+            "csmtmktXode": "347002",
+            "csmtmktNm": "판매과(2계)",
+            "csgnrCo": "738",
+            "fshrbtCo": "854",
+            "sllllCo": "95",
+            "prvyyTotCnsgnAmount": "11988933840"
+          },
+          {
+            "mxtrCode": "347",
+            "mxtrNm": "구룡포수산업협동조합",
+            "csmtmktXode": "347003",
+            "csmtmktNm": "호미곶지점",
+            "csgnrCo": "343",
+            "fshrbtCo": "374",
+            "sllllCo": "33",
+            "prvyyTotCnsgnAmount": "7001327600"
+          },
+          {
+            "mxtrCode": "323",
+            "mxtrNm": "군산시수산업협동조합",
+            "csmtmktXode": "323008",
+            "csmtmktNm": "가공사업팀",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "323",
+            "mxtrNm": "군산시수산업협동조합",
+            "csmtmktXode": "323007",
+            "csmtmktNm": "개야도(활어)",
+            "csgnrCo": "148",
+            "fshrbtCo": "70",
+            "sllllCo": "32",
+            "prvyyTotCnsgnAmount": "4297818000"
+          },
+          {
+            "mxtrCode": "323",
+            "mxtrNm": "군산시수산업협동조합",
+            "csmtmktXode": "323009",
+            "csmtmktNm": "물김위판장",
+            "csgnrCo": "241",
+            "fshrbtCo": "75",
+            "sllllCo": "29",
+            "prvyyTotCnsgnAmount": "28936470000"
+          },
+          {
+            "mxtrCode": "323",
+            "mxtrNm": "군산시수산업협동조합",
+            "csmtmktXode": "323005",
+            "csmtmktNm": "비응항위판장",
+            "csgnrCo": "1248",
+            "fshrbtCo": "1473",
+            "sllllCo": "69",
+            "prvyyTotCnsgnAmount": "20434546980"
+          },
+          {
+            "mxtrCode": "323",
+            "mxtrNm": "군산시수산업협동조합",
+            "csmtmktXode": "323004",
+            "csmtmktNm": "소룡판매과",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "323",
+            "mxtrNm": "군산시수산업협동조합",
+            "csmtmktXode": "323006",
+            "csmtmktNm": "어청도(활어)",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "323",
+            "mxtrNm": "군산시수산업협동조합",
+            "csmtmktXode": "323003",
+            "csmtmktNm": "옥구판매과",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "323",
+            "mxtrNm": "군산시수산업협동조합",
+            "csmtmktXode": "323001",
+            "csmtmktNm": "중동공판장",
+            "csgnrCo": "110",
+            "fshrbtCo": "131",
+            "sllllCo": "20",
+            "prvyyTotCnsgnAmount": "948989010"
+          },
+          {
+            "mxtrCode": "323",
+            "mxtrNm": "군산시수산업협동조합",
+            "csmtmktXode": "323002",
+            "csmtmktNm": "해망동위판장",
+            "csgnrCo": "403",
+            "fshrbtCo": "436",
+            "sllllCo": "73",
+            "prvyyTotCnsgnAmount": "37226423480"
+          },
+          {
+            "mxtrCode": "511",
+            "mxtrNm": "굴수하식수산업협동조합",
+            "csmtmktXode": "511003",
+            "csmtmktNm": "여수지소",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "511",
+            "mxtrNm": "굴수하식수산업협동조합",
+            "csmtmktXode": "511002",
+            "csmtmktNm": "유통가공",
+            "csgnrCo": "2",
+            "fshrbtCo": "0",
+            "sllllCo": "1",
+            "prvyyTotCnsgnAmount": "87442503"
+          },
+          {
+            "mxtrCode": "511",
+            "mxtrNm": "굴수하식수산업협동조합",
+            "csmtmktXode": "511001",
+            "csmtmktNm": "유통판매과",
+            "csgnrCo": "567",
+            "fshrbtCo": "68",
+            "sllllCo": "81",
+            "prvyyTotCnsgnAmount": "82184179400"
+          },
+          {
+            "mxtrCode": "500",
+            "mxtrNm": "근해안강망수산업협동조합",
+            "csmtmktXode": "500001",
+            "csmtmktNm": "근해안강망수협",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "504",
+            "mxtrNm": "근해유망수산업협동조합",
+            "csmtmktXode": "504001",
+            "csmtmktNm": "근해유망",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "512",
+            "mxtrNm": "근해통발수산업협동조합",
+            "csmtmktXode": "512001",
+            "csmtmktNm": "판매팀",
+            "csgnrCo": "20",
+            "fshrbtCo": "22",
+            "sllllCo": "40",
+            "prvyyTotCnsgnAmount": "13316253300"
+          },
+          {
+            "mxtrCode": "355",
+            "mxtrNm": "기장수산업협동조합",
+            "csmtmktXode": "355002",
+            "csmtmktNm": "대변위판장",
+            "csgnrCo": "422",
+            "fshrbtCo": "542",
+            "sllllCo": "34",
+            "prvyyTotCnsgnAmount": "7721034060"
+          },
+          {
+            "mxtrCode": "355",
+            "mxtrNm": "기장수산업협동조합",
+            "csmtmktXode": "355004",
+            "csmtmktNm": "칠암위판장",
+            "csgnrCo": "62",
+            "fshrbtCo": "0",
+            "sllllCo": "3",
+            "prvyyTotCnsgnAmount": "992759950"
+          },
+          {
+            "mxtrCode": "355",
+            "mxtrNm": "기장수산업협동조합",
+            "csmtmktXode": "355001",
+            "csmtmktNm": "판매사업과",
+            "csgnrCo": "26",
+            "fshrbtCo": "0",
+            "sllllCo": "1",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "355",
+            "mxtrNm": "기장수산업협동조합",
+            "csmtmktXode": "355003",
+            "csmtmktNm": "학리위판장",
+            "csgnrCo": "7",
+            "fshrbtCo": "12",
+            "sllllCo": "2",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "337",
+            "mxtrNm": "나로도수산업협동조합",
+            "csmtmktXode": "337001",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "1172",
+            "fshrbtCo": "1133",
+            "sllllCo": "51",
+            "prvyyTotCnsgnAmount": "17619022300"
+          },
+          {
+            "mxtrCode": "337",
+            "mxtrNm": "나로도수산업협동조합",
+            "csmtmktXode": "337002",
+            "csmtmktNm": "총무과",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "364",
+            "mxtrNm": "남해군수산업협동조합",
+            "csmtmktXode": "364007",
+            "csmtmktNm": "기타(촉탁,계약직)",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "364",
+            "mxtrNm": "남해군수산업협동조합",
+            "csmtmktXode": "364005",
+            "csmtmktNm": "남면지점",
+            "csgnrCo": "206",
+            "fshrbtCo": "224",
+            "sllllCo": "22",
+            "prvyyTotCnsgnAmount": "1622775450"
+          },
+          {
+            "mxtrCode": "364",
+            "mxtrNm": "남해군수산업협동조합",
+            "csmtmktXode": "364004",
+            "csmtmktNm": "삼동지점",
+            "csgnrCo": "13",
+            "fshrbtCo": "10",
+            "sllllCo": "14",
+            "prvyyTotCnsgnAmount": "343665420"
+          },
+          {
+            "mxtrCode": "364",
+            "mxtrNm": "남해군수산업협동조합",
+            "csmtmktXode": "364003",
+            "csmtmktNm": "중앙지점",
+            "csgnrCo": "724",
+            "fshrbtCo": "792",
+            "sllllCo": "42",
+            "prvyyTotCnsgnAmount": "8353667455"
+          },
+          {
+            "mxtrCode": "364",
+            "mxtrNm": "남해군수산업협동조합",
+            "csmtmktXode": "364006",
+            "csmtmktNm": "창선지점",
+            "csgnrCo": "19",
+            "fshrbtCo": "8",
+            "sllllCo": "14",
+            "prvyyTotCnsgnAmount": "4709761679"
+          },
+          {
+            "mxtrCode": "364",
+            "mxtrNm": "남해군수산업협동조합",
+            "csmtmktXode": "364002",
+            "csmtmktNm": "창선지점판매과",
+            "csgnrCo": "1168",
+            "fshrbtCo": "1493",
+            "sllllCo": "30",
+            "prvyyTotCnsgnAmount": "11042200770"
+          },
+          {
+            "mxtrCode": "364",
+            "mxtrNm": "남해군수산업협동조합",
+            "csmtmktXode": "364001",
+            "csmtmktNm": "판매과",
+            "csgnrCo": "1079",
+            "fshrbtCo": "1347",
+            "sllllCo": "85",
+            "prvyyTotCnsgnAmount": "29058311389"
+          },
+          {
+            "mxtrCode": "319",
+            "mxtrNm": "대천서부수산업협동조합",
+            "csmtmktXode": "319001",
+            "csmtmktNm": "판매과",
+            "csgnrCo": "507",
+            "fshrbtCo": "665",
+            "sllllCo": "85",
+            "prvyyTotCnsgnAmount": "18844331440"
+          },
+          {
+            "mxtrCode": "310",
+            "mxtrNm": "대포수산업협동조합",
+            "csmtmktXode": "310001",
+            "csmtmktNm": "판매과",
+            "csgnrCo": "182",
+            "fshrbtCo": "208",
+            "sllllCo": "11",
+            "prvyyTotCnsgnAmount": "3421107900"
+          },
+          {
+            "mxtrCode": "519",
+            "mxtrNm": "대형기선저인망수산업협동조합",
+            "csmtmktXode": "519002",
+            "csmtmktNm": "어민대대",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "519",
+            "mxtrNm": "대형기선저인망수산업협동조합",
+            "csmtmktXode": "519001",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "501",
+            "mxtrNm": "대형선망수산업협동조합",
+            "csmtmktXode": "501001",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "502",
+            "mxtrNm": "동해구기선저인망수산업협동조합",
+            "csmtmktXode": "502001",
+            "csmtmktNm": "동해구기선저인망수협",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "306",
+            "mxtrNm": "동해시수산업협동조합",
+            "csmtmktXode": "306001",
+            "csmtmktNm": "판매과",
+            "csgnrCo": "553",
+            "fshrbtCo": "628",
+            "sllllCo": "44",
+            "prvyyTotCnsgnAmount": "23731386685"
+          },
+          {
+            "mxtrCode": "356",
+            "mxtrNm": "마산수산업협동조합",
+            "csmtmktXode": "356002",
+            "csmtmktNm": "경제부 남성공판",
+            "csgnrCo": "2050",
+            "fshrbtCo": "1747",
+            "sllllCo": "70",
+            "prvyyTotCnsgnAmount": "16055087800"
+          },
+          {
+            "mxtrCode": "356",
+            "mxtrNm": "마산수산업협동조합",
+            "csmtmktXode": "356001",
+            "csmtmktNm": "경제부 판매과",
+            "csgnrCo": "89",
+            "fshrbtCo": "206",
+            "sllllCo": "66",
+            "prvyyTotCnsgnAmount": "43039620500"
+          },
+          {
+            "mxtrCode": "356",
+            "mxtrNm": "마산수산업협동조합",
+            "csmtmktXode": "356003",
+            "csmtmktNm": "원전위판장",
+            "csgnrCo": "734",
+            "fshrbtCo": "871",
+            "sllllCo": "30",
+            "prvyyTotCnsgnAmount": "1505111200"
+          },
+          {
+            "mxtrCode": "515",
+            "mxtrNm": "멍게수하식수산업협동조합",
+            "csmtmktXode": "515002",
+            "csmtmktNm": "멍게수협위판장",
+            "csgnrCo": "168",
+            "fshrbtCo": "14",
+            "sllllCo": "20",
+            "prvyyTotCnsgnAmount": "1487310100"
+          },
+          {
+            "mxtrCode": "515",
+            "mxtrNm": "멍게수하식수산업협동조합",
+            "csmtmktXode": "515001",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "192",
+            "fshrbtCo": "25",
+            "sllllCo": "94",
+            "prvyyTotCnsgnAmount": "4371020000"
+          },
+          {
+            "mxtrCode": "509",
+            "mxtrNm": "멸치권현망수산업협동조합",
+            "csmtmktXode": "509003",
+            "csmtmktNm": "지도사업과(마산지소)",
+            "csgnrCo": "86",
+            "fshrbtCo": "126",
+            "sllllCo": "89",
+            "prvyyTotCnsgnAmount": "30982298200"
+          },
+          {
+            "mxtrCode": "509",
+            "mxtrNm": "멸치권현망수산업협동조합",
+            "csmtmktXode": "509001",
+            "csmtmktNm": "판매사업과",
+            "csgnrCo": "337",
+            "fshrbtCo": "349",
+            "sllllCo": "92",
+            "prvyyTotCnsgnAmount": "75985000950"
+          },
+          {
+            "mxtrCode": "373",
+            "mxtrNm": "모슬포수산업협동조합",
+            "csmtmktXode": "373001",
+            "csmtmktNm": "판매과",
+            "csgnrCo": "425",
+            "fshrbtCo": "469",
+            "sllllCo": "91",
+            "prvyyTotCnsgnAmount": "38788763085"
+          },
+          {
+            "mxtrCode": "327",
+            "mxtrNm": "목포수산업협동조합",
+            "csmtmktXode": "327005",
+            "csmtmktNm": "목포물김위판장",
+            "csgnrCo": "123",
+            "fshrbtCo": "81",
+            "sllllCo": "16",
+            "prvyyTotCnsgnAmount": "4379020000"
+          },
+          {
+            "mxtrCode": "327",
+            "mxtrNm": "목포수산업협동조합",
+            "csmtmktXode": "327004",
+            "csmtmktNm": "무안지소",
+            "csgnrCo": "153",
+            "fshrbtCo": "53",
+            "sllllCo": "15",
+            "prvyyTotCnsgnAmount": "8758790500"
+          },
+          {
+            "mxtrCode": "327",
+            "mxtrNm": "목포수산업협동조합",
+            "csmtmktXode": "327003",
+            "csmtmktNm": "새우젓위판장",
+            "csgnrCo": "266",
+            "fshrbtCo": "336",
+            "sllllCo": "37",
+            "prvyyTotCnsgnAmount": "18647436000"
+          },
+          {
+            "mxtrCode": "327",
+            "mxtrNm": "목포수산업협동조합",
+            "csmtmktXode": "327001",
+            "csmtmktNm": "판매1과(선어)",
+            "csgnrCo": "728",
+            "fshrbtCo": "958",
+            "sllllCo": "73",
+            "prvyyTotCnsgnAmount": "103649161810"
+          },
+          {
+            "mxtrCode": "327",
+            "mxtrNm": "목포수산업협동조합",
+            "csmtmktXode": "327002",
+            "csmtmktNm": "활어위판장",
+            "csgnrCo": "3201",
+            "fshrbtCo": "2884",
+            "sllllCo": "63",
+            "prvyyTotCnsgnAmount": "27716248654"
+          },
+          {
+            "mxtrCode": "506",
+            "mxtrNm": "민물장어양식수산업협동조합",
+            "csmtmktXode": "506903",
+            "csmtmktNm": "민물장어양식수산업협동조합 전국영암위판장",
+            "csgnrCo": "29",
+            "fshrbtCo": "0",
+            "sllllCo": "4",
+            "prvyyTotCnsgnAmount": "2147102000"
+          },
+          {
+            "mxtrCode": "506",
+            "mxtrNm": "민물장어양식수산업협동조합",
+            "csmtmktXode": "506904",
+            "csmtmktNm": "전북위판장",
+            "csgnrCo": "2",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "189465000"
+          },
+          {
+            "mxtrCode": "506",
+            "mxtrNm": "민물장어양식수산업협동조합",
+            "csmtmktXode": "506002",
+            "csmtmktNm": "현장위판",
+            "csgnrCo": "51",
+            "fshrbtCo": "0",
+            "sllllCo": "8",
+            "prvyyTotCnsgnAmount": "5255833800"
+          },
+          {
+            "mxtrCode": "315",
+            "mxtrNm": "보령수산업협동조합",
+            "csmtmktXode": "315002",
+            "csmtmktNm": "오천지점",
+            "csgnrCo": "281",
+            "fshrbtCo": "389",
+            "sllllCo": "40",
+            "prvyyTotCnsgnAmount": "5893887744"
+          },
+          {
+            "mxtrCode": "315",
+            "mxtrNm": "보령수산업협동조합",
+            "csmtmktXode": "315001",
+            "csmtmktNm": "판매과",
+            "csgnrCo": "1055",
+            "fshrbtCo": "1389",
+            "sllllCo": "130",
+            "prvyyTotCnsgnAmount": "85503787255"
+          },
+          {
+            "mxtrCode": "374",
+            "mxtrNm": "부산시수산업협동조합",
+            "csmtmktXode": "374910",
+            "csmtmktNm": "감천공판장",
+            "csgnrCo": "35",
+            "fshrbtCo": "35",
+            "sllllCo": "34",
+            "prvyyTotCnsgnAmount": "46695011100"
+          },
+          {
+            "mxtrCode": "374",
+            "mxtrNm": "부산시수산업협동조합",
+            "csmtmktXode": "374004",
+            "csmtmktNm": "낙동판매과",
+            "csgnrCo": "192",
+            "fshrbtCo": "68",
+            "sllllCo": "15",
+            "prvyyTotCnsgnAmount": "21542760700"
+          },
+          {
+            "mxtrCode": "374",
+            "mxtrNm": "부산시수산업협동조합",
+            "csmtmktXode": "374001",
+            "csmtmktNm": "남포동공판장",
+            "csgnrCo": "272",
+            "fshrbtCo": "263",
+            "sllllCo": "129",
+            "prvyyTotCnsgnAmount": "42597625000"
+          },
+          {
+            "mxtrCode": "374",
+            "mxtrNm": "부산시수산업협동조합",
+            "csmtmktXode": "374003",
+            "csmtmktNm": "다대공판장",
+            "csgnrCo": "291",
+            "fshrbtCo": "382",
+            "sllllCo": "93",
+            "prvyyTotCnsgnAmount": "23386640750"
+          },
+          {
+            "mxtrCode": "374",
+            "mxtrNm": "부산시수산업협동조합",
+            "csmtmktXode": "374005",
+            "csmtmktNm": "민락판매과",
+            "csgnrCo": "82",
+            "fshrbtCo": "106",
+            "sllllCo": "27",
+            "prvyyTotCnsgnAmount": "2294105800"
+          },
+          {
+            "mxtrCode": "374",
+            "mxtrNm": "부산시수산업협동조합",
+            "csmtmktXode": "374002",
+            "csmtmktNm": "자갈치위판장",
+            "csgnrCo": "329",
+            "fshrbtCo": "366",
+            "sllllCo": "89",
+            "prvyyTotCnsgnAmount": "59899977800"
+          },
+          {
+            "mxtrCode": "325",
+            "mxtrNm": "부안수산업협동조합",
+            "csmtmktXode": "325001",
+            "csmtmktNm": "격포판매",
+            "csgnrCo": "317",
+            "fshrbtCo": "310",
+            "sllllCo": "65",
+            "prvyyTotCnsgnAmount": "4718874490"
+          },
+          {
+            "mxtrCode": "325",
+            "mxtrNm": "부안수산업협동조합",
+            "csmtmktXode": "325002",
+            "csmtmktNm": "곰소판매",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "367",
+            "mxtrNm": "사량수산업협동조합",
+            "csmtmktXode": "367002",
+            "csmtmktNm": "지도사업과",
+            "csgnrCo": "97",
+            "fshrbtCo": "108",
+            "sllllCo": "3",
+            "prvyyTotCnsgnAmount": "308993500"
+          },
+          {
+            "mxtrCode": "367",
+            "mxtrNm": "사량수산업협동조합",
+            "csmtmktXode": "367001",
+            "csmtmktNm": "총무지도과",
+            "csgnrCo": "23",
+            "fshrbtCo": "31",
+            "sllllCo": "3",
+            "prvyyTotCnsgnAmount": "266155500"
+          },
+          {
+            "mxtrCode": "366",
+            "mxtrNm": "사천수산업협동조합",
+            "csmtmktXode": "366001",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "619",
+            "fshrbtCo": "378",
+            "sllllCo": "25",
+            "prvyyTotCnsgnAmount": "2523348400"
+          },
+          {
+            "mxtrCode": "307",
+            "mxtrNm": "삼척수산업협동조합",
+            "csmtmktXode": "307002",
+            "csmtmktNm": "본소위판장",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "307",
+            "mxtrNm": "삼척수산업협동조합",
+            "csmtmktXode": "307001",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "488",
+            "fshrbtCo": "568",
+            "sllllCo": "48",
+            "prvyyTotCnsgnAmount": "23390789684"
+          },
+          {
+            "mxtrCode": "357",
+            "mxtrNm": "삼천포수산업협동조합",
+            "csmtmktXode": "357005",
+            "csmtmktNm": "건어사업소",
+            "csgnrCo": "278",
+            "fshrbtCo": "182",
+            "sllllCo": "74",
+            "prvyyTotCnsgnAmount": "49693474182"
+          },
+          {
+            "mxtrCode": "357",
+            "mxtrNm": "삼천포수산업협동조합",
+            "csmtmktXode": "357001",
+            "csmtmktNm": "판매1과",
+            "csgnrCo": "691",
+            "fshrbtCo": "856",
+            "sllllCo": "68",
+            "prvyyTotCnsgnAmount": "53015327200"
+          },
+          {
+            "mxtrCode": "357",
+            "mxtrNm": "삼천포수산업협동조합",
+            "csmtmktXode": "357004",
+            "csmtmktNm": "판매2과(패류)",
+            "csgnrCo": "486",
+            "fshrbtCo": "604",
+            "sllllCo": "20",
+            "prvyyTotCnsgnAmount": "7221731850"
+          },
+          {
+            "mxtrCode": "357",
+            "mxtrNm": "삼천포수산업협동조합",
+            "csmtmktXode": "357003",
+            "csmtmktNm": "판매2과(활어)",
+            "csgnrCo": "1979",
+            "fshrbtCo": "2079",
+            "sllllCo": "38",
+            "prvyyTotCnsgnAmount": "24689785900"
+          },
+          {
+            "mxtrCode": "368",
+            "mxtrNm": "서귀포수산업협동조합",
+            "csmtmktXode": "368002",
+            "csmtmktNm": "남원일반",
+            "csgnrCo": "20",
+            "fshrbtCo": "19",
+            "sllllCo": "20",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "368",
+            "mxtrNm": "서귀포수산업협동조합",
+            "csmtmktXode": "368001",
+            "csmtmktNm": "서귀포위판장",
+            "csgnrCo": "562",
+            "fshrbtCo": "642",
+            "sllllCo": "146",
+            "prvyyTotCnsgnAmount": "125942607293"
+          },
+          {
+            "mxtrCode": "368",
+            "mxtrNm": "서귀포수산업협동조합",
+            "csmtmktXode": "368003",
+            "csmtmktNm": "활어위판",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "518",
+            "mxtrNm": "서남구기선저인망수산업협동조합",
+            "csmtmktXode": "518001",
+            "csmtmktNm": "지도과",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "507",
+            "mxtrNm": "서남해수어류양식수산업협동조합",
+            "csmtmktXode": "507001",
+            "csmtmktNm": "위판",
+            "csgnrCo": "149",
+            "fshrbtCo": "97",
+            "sllllCo": "16",
+            "prvyyTotCnsgnAmount": "23290022500"
+          },
+          {
+            "mxtrCode": "507",
+            "mxtrNm": "서남해수어류양식수산업협동조합",
+            "csmtmktXode": "507002",
+            "csmtmktNm": "통영지소",
+            "csgnrCo": "252",
+            "fshrbtCo": "43",
+            "sllllCo": "23",
+            "prvyyTotCnsgnAmount": "26251379500"
+          },
+          {
+            "mxtrCode": "316",
+            "mxtrNm": "서산수산업협동조합",
+            "csmtmktXode": "316003",
+            "csmtmktNm": "모항판매사업소",
+            "csgnrCo": "358",
+            "fshrbtCo": "436",
+            "sllllCo": "20",
+            "prvyyTotCnsgnAmount": "4658969138"
+          },
+          {
+            "mxtrCode": "316",
+            "mxtrNm": "서산수산업협동조합",
+            "csmtmktXode": "316001",
+            "csmtmktNm": "안흥판매사업소",
+            "csgnrCo": "904",
+            "fshrbtCo": "1128",
+            "sllllCo": "45",
+            "prvyyTotCnsgnAmount": "39044536570"
+          },
+          {
+            "mxtrCode": "316",
+            "mxtrNm": "서산수산업협동조합",
+            "csmtmktXode": "316002",
+            "csmtmktNm": "채석포판매사업소",
+            "csgnrCo": "155",
+            "fshrbtCo": "177",
+            "sllllCo": "30",
+            "prvyyTotCnsgnAmount": "9733000260"
+          },
+          {
+            "mxtrCode": "317",
+            "mxtrNm": "서천군수산업협동조합",
+            "csmtmktXode": "317001",
+            "csmtmktNm": "판매사업과",
+            "csgnrCo": "445",
+            "fshrbtCo": "402",
+            "sllllCo": "132",
+            "prvyyTotCnsgnAmount": "54209976046"
+          },
+          {
+            "mxtrCode": "318",
+            "mxtrNm": "서천서부수산업협동조합",
+            "csmtmktXode": "318001",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "776",
+            "fshrbtCo": "853",
+            "sllllCo": "139",
+            "prvyyTotCnsgnAmount": "63602683086"
+          },
+          {
+            "mxtrCode": "369",
+            "mxtrNm": "성산포수산업협동조합",
+            "csmtmktXode": "369001",
+            "csmtmktNm": "유통영업과",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "369",
+            "mxtrNm": "성산포수산업협동조합",
+            "csmtmktXode": "369003",
+            "csmtmktNm": "판매과",
+            "csgnrCo": "904",
+            "fshrbtCo": "1005",
+            "sllllCo": "92",
+            "prvyyTotCnsgnAmount": "123518434805"
+          },
+          {
+            "mxtrCode": "308",
+            "mxtrNm": "속초시수산업협동조합",
+            "csmtmktXode": "308003",
+            "csmtmktNm": "동명사업소",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "308",
+            "mxtrNm": "속초시수산업협동조합",
+            "csmtmktXode": "308002",
+            "csmtmktNm": "속초수협 위판장",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "308",
+            "mxtrNm": "속초시수산업협동조합",
+            "csmtmktXode": "308004",
+            "csmtmktNm": "장사위판장",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "308",
+            "mxtrNm": "속초시수산업협동조합",
+            "csmtmktXode": "308001",
+            "csmtmktNm": "판매과",
+            "csgnrCo": "431",
+            "fshrbtCo": "500",
+            "sllllCo": "181",
+            "prvyyTotCnsgnAmount": "44847395533"
+          },
+          {
+            "mxtrCode": "328",
+            "mxtrNm": "신안군수산업협동조합",
+            "csmtmktXode": "328006",
+            "csmtmktNm": "본점활어위판장",
+            "csgnrCo": "2483",
+            "fshrbtCo": "2146",
+            "sllllCo": "27",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "328",
+            "mxtrNm": "신안군수산업협동조합",
+            "csmtmktXode": "328003",
+            "csmtmktNm": "북부지점",
+            "csgnrCo": "1223",
+            "fshrbtCo": "1400",
+            "sllllCo": "118",
+            "prvyyTotCnsgnAmount": "54810651650"
+          },
+          {
+            "mxtrCode": "328",
+            "mxtrNm": "신안군수산업협동조합",
+            "csmtmktXode": "328012",
+            "csmtmktNm": "북부지점새우젓",
+            "csgnrCo": "252",
+            "fshrbtCo": "301",
+            "sllllCo": "15",
+            "prvyyTotCnsgnAmount": "63196251000"
+          },
+          {
+            "mxtrCode": "328",
+            "mxtrNm": "신안군수산업협동조합",
+            "csmtmktXode": "328004",
+            "csmtmktNm": "송공사업소",
+            "csgnrCo": "1278",
+            "fshrbtCo": "1081",
+            "sllllCo": "83",
+            "prvyyTotCnsgnAmount": "24897297750"
+          },
+          {
+            "mxtrCode": "328",
+            "mxtrNm": "신안군수산업협동조합",
+            "csmtmktXode": "328002",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "41",
+            "fshrbtCo": "11",
+            "sllllCo": "6",
+            "prvyyTotCnsgnAmount": "460280000"
+          },
+          {
+            "mxtrCode": "328",
+            "mxtrNm": "신안군수산업협동조합",
+            "csmtmktXode": "328001",
+            "csmtmktNm": "총무지도과",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "328",
+            "mxtrNm": "신안군수산업협동조합",
+            "csmtmktXode": "328005",
+            "csmtmktNm": "흑산도위판장",
+            "csgnrCo": "702",
+            "fshrbtCo": "631",
+            "sllllCo": "89",
+            "prvyyTotCnsgnAmount": "23368217800"
+          },
+          {
+            "mxtrCode": "321",
+            "mxtrNm": "안면도수산업협동조합",
+            "csmtmktXode": "321002",
+            "csmtmktNm": "백사장지소",
+            "csgnrCo": "603",
+            "fshrbtCo": "666",
+            "sllllCo": "31",
+            "prvyyTotCnsgnAmount": "18683814793"
+          },
+          {
+            "mxtrCode": "321",
+            "mxtrNm": "안면도수산업협동조합",
+            "csmtmktXode": "321003",
+            "csmtmktNm": "영목위판장",
+            "csgnrCo": "1",
+            "fshrbtCo": "1",
+            "sllllCo": "1",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "321",
+            "mxtrNm": "안면도수산업협동조합",
+            "csmtmktXode": "321001",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "737",
+            "fshrbtCo": "90",
+            "sllllCo": "12",
+            "prvyyTotCnsgnAmount": "1876605375"
+          },
+          {
+            "mxtrCode": "309",
+            "mxtrNm": "양양수산업협동조합",
+            "csmtmktXode": "309001",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "237",
+            "fshrbtCo": "291",
+            "sllllCo": "80",
+            "prvyyTotCnsgnAmount": "13621843604"
+          },
+          {
+            "mxtrCode": "339",
+            "mxtrNm": "여수 수산업협동조합",
+            "csmtmktXode": "339003",
+            "csmtmktNm": "군내판매과",
+            "csgnrCo": "1304",
+            "fshrbtCo": "1267",
+            "sllllCo": "46",
+            "prvyyTotCnsgnAmount": "15567194000"
+          },
+          {
+            "mxtrCode": "339",
+            "mxtrNm": "여수 수산업협동조합",
+            "csmtmktXode": "339004",
+            "csmtmktNm": "남면사업소",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "339",
+            "mxtrNm": "여수 수산업협동조합",
+            "csmtmktXode": "339001",
+            "csmtmktNm": "판매과1",
+            "csgnrCo": "989",
+            "fshrbtCo": "1235",
+            "sllllCo": "149",
+            "prvyyTotCnsgnAmount": "132895710481"
+          },
+          {
+            "mxtrCode": "339",
+            "mxtrNm": "여수 수산업협동조합",
+            "csmtmktXode": "339002",
+            "csmtmktNm": "판매과2",
+            "csgnrCo": "237",
+            "fshrbtCo": "205",
+            "sllllCo": "98",
+            "prvyyTotCnsgnAmount": "53984625000"
+          },
+          {
+            "mxtrCode": "329",
+            "mxtrNm": "영광군수산업협동조합",
+            "csmtmktXode": "329004",
+            "csmtmktNm": "계마(일반)",
+            "csgnrCo": "181",
+            "fshrbtCo": "204",
+            "sllllCo": "27",
+            "prvyyTotCnsgnAmount": "4331074970"
+          },
+          {
+            "mxtrCode": "329",
+            "mxtrNm": "영광군수산업협동조합",
+            "csmtmktXode": "329002",
+            "csmtmktNm": "유통사업과(본소)",
+            "csgnrCo": "6",
+            "fshrbtCo": "4",
+            "sllllCo": "1",
+            "prvyyTotCnsgnAmount": "420360000"
+          },
+          {
+            "mxtrCode": "329",
+            "mxtrNm": "영광군수산업협동조합",
+            "csmtmktXode": "329001",
+            "csmtmktNm": "지도총무과(본소)",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "329",
+            "mxtrNm": "영광군수산업협동조합",
+            "csmtmktXode": "329003",
+            "csmtmktNm": "판매과(사업소)",
+            "csgnrCo": "515",
+            "fshrbtCo": "612",
+            "sllllCo": "79",
+            "prvyyTotCnsgnAmount": "59815941100"
+          },
+          {
+            "mxtrCode": "350",
+            "mxtrNm": "영덕북부수산업협동조합",
+            "csmtmktXode": "350001",
+            "csmtmktNm": "판매과",
+            "csgnrCo": "745",
+            "fshrbtCo": "929",
+            "sllllCo": "87",
+            "prvyyTotCnsgnAmount": "28801479290"
+          },
+          {
+            "mxtrCode": "302",
+            "mxtrNm": "영흥수산업협동조합",
+            "csmtmktXode": "302001",
+            "csmtmktNm": "영흥위판장",
+            "csgnrCo": "334",
+            "fshrbtCo": "286",
+            "sllllCo": "41",
+            "prvyyTotCnsgnAmount": "7005377549"
+          },
+          {
+            "mxtrCode": "302",
+            "mxtrNm": "영흥수산업협동조합",
+            "csmtmktXode": "302002",
+            "csmtmktNm": "총무과",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "302",
+            "mxtrNm": "영흥수산업협동조합",
+            "csmtmktXode": "302003",
+            "csmtmktNm": "�ǸŰ�",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "301",
+            "mxtrNm": "옹진수산업협동조합",
+            "csmtmktXode": "301004",
+            "csmtmktNm": "대부사업소",
+            "csgnrCo": "256",
+            "fshrbtCo": "258",
+            "sllllCo": "47",
+            "prvyyTotCnsgnAmount": "10914176030"
+          },
+          {
+            "mxtrCode": "301",
+            "mxtrNm": "옹진수산업협동조합",
+            "csmtmktXode": "301003",
+            "csmtmktNm": "대청사업소",
+            "csgnrCo": "8",
+            "fshrbtCo": "0",
+            "sllllCo": "6",
+            "prvyyTotCnsgnAmount": "280220982"
+          },
+          {
+            "mxtrCode": "301",
+            "mxtrNm": "옹진수산업협동조합",
+            "csmtmktXode": "301006",
+            "csmtmktNm": "백령사업소",
+            "csgnrCo": "7",
+            "fshrbtCo": "0",
+            "sllllCo": "4",
+            "prvyyTotCnsgnAmount": "324745000"
+          },
+          {
+            "mxtrCode": "301",
+            "mxtrNm": "옹진수산업협동조합",
+            "csmtmktXode": "301001",
+            "csmtmktNm": "연안위판장(옹진)",
+            "csgnrCo": "510",
+            "fshrbtCo": "484",
+            "sllllCo": "40",
+            "prvyyTotCnsgnAmount": "49661791040"
+          },
+          {
+            "mxtrCode": "301",
+            "mxtrNm": "옹진수산업협동조합",
+            "csmtmktXode": "301005",
+            "csmtmktNm": "월곶공판장",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "342",
+            "mxtrNm": "완도금일수산업협동조합",
+            "csmtmktXode": "342001",
+            "csmtmktNm": "건다시마",
+            "csgnrCo": "1161",
+            "fshrbtCo": "176",
+            "sllllCo": "28",
+            "prvyyTotCnsgnAmount": "16218308010"
+          },
+          {
+            "mxtrCode": "342",
+            "mxtrNm": "완도금일수산업협동조합",
+            "csmtmktXode": "342004",
+            "csmtmktNm": "군외사업소",
+            "csgnrCo": "226",
+            "fshrbtCo": "58",
+            "sllllCo": "32",
+            "prvyyTotCnsgnAmount": "20516577090"
+          },
+          {
+            "mxtrCode": "342",
+            "mxtrNm": "완도금일수산업협동조합",
+            "csmtmktXode": "342006",
+            "csmtmktNm": "금당사업소",
+            "csgnrCo": "150",
+            "fshrbtCo": "78",
+            "sllllCo": "9",
+            "prvyyTotCnsgnAmount": "2978245400"
+          },
+          {
+            "mxtrCode": "342",
+            "mxtrNm": "완도금일수산업협동조합",
+            "csmtmktXode": "342007",
+            "csmtmktNm": "신지사업소",
+            "csgnrCo": "82",
+            "fshrbtCo": "3",
+            "sllllCo": "3",
+            "prvyyTotCnsgnAmount": "500013000"
+          },
+          {
+            "mxtrCode": "342",
+            "mxtrNm": "완도금일수산업협동조합",
+            "csmtmktXode": "342005",
+            "csmtmktNm": "약산출장소",
+            "csgnrCo": "119",
+            "fshrbtCo": "35",
+            "sllllCo": "2",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "342",
+            "mxtrNm": "완도금일수산업협동조합",
+            "csmtmktXode": "342002",
+            "csmtmktNm": "판매1팀(유통센터)",
+            "csgnrCo": "1789",
+            "fshrbtCo": "386",
+            "sllllCo": "70",
+            "prvyyTotCnsgnAmount": "18724671370"
+          },
+          {
+            "mxtrCode": "342",
+            "mxtrNm": "완도금일수산업협동조합",
+            "csmtmktXode": "342003",
+            "csmtmktNm": "판매2팀(유통센터)",
+            "csgnrCo": "2659",
+            "fshrbtCo": "1123",
+            "sllllCo": "66",
+            "prvyyTotCnsgnAmount": "18482742660"
+          },
+          {
+            "mxtrCode": "343",
+            "mxtrNm": "완도소안수산업협동조합",
+            "csmtmktXode": "343002",
+            "csmtmktNm": "노화지점",
+            "csgnrCo": "34",
+            "fshrbtCo": "0",
+            "sllllCo": "10",
+            "prvyyTotCnsgnAmount": "2788684000"
+          },
+          {
+            "mxtrCode": "343",
+            "mxtrNm": "완도소안수산업협동조합",
+            "csmtmktXode": "343004",
+            "csmtmktNm": "보길지점",
+            "csgnrCo": "5",
+            "fshrbtCo": "1",
+            "sllllCo": "2",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "343",
+            "mxtrNm": "완도소안수산업협동조합",
+            "csmtmktXode": "343001",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "420",
+            "fshrbtCo": "6",
+            "sllllCo": "49",
+            "prvyyTotCnsgnAmount": "33119727900"
+          },
+          {
+            "mxtrCode": "343",
+            "mxtrNm": "완도소안수산업협동조합",
+            "csmtmktXode": "343003",
+            "csmtmktNm": "청산지점",
+            "csgnrCo": "109",
+            "fshrbtCo": "5",
+            "sllllCo": "11",
+            "prvyyTotCnsgnAmount": "67006500"
+          },
+          {
+            "mxtrCode": "365",
+            "mxtrNm": "욕지수산업협동조합",
+            "csmtmktXode": "365001",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "107",
+            "fshrbtCo": "13",
+            "sllllCo": "23",
+            "prvyyTotCnsgnAmount": "22449242500"
+          },
+          {
+            "mxtrCode": "348",
+            "mxtrNm": "울릉군수산업협동조합",
+            "csmtmktXode": "348002",
+            "csmtmktNm": "서북출장소",
+            "csgnrCo": "44",
+            "fshrbtCo": "51",
+            "sllllCo": "51",
+            "prvyyTotCnsgnAmount": "483893430"
+          },
+          {
+            "mxtrCode": "348",
+            "mxtrNm": "울릉군수산업협동조합",
+            "csmtmktXode": "348001",
+            "csmtmktNm": "판매과",
+            "csgnrCo": "309",
+            "fshrbtCo": "357",
+            "sllllCo": "48",
+            "prvyyTotCnsgnAmount": "8607324422"
+          },
+          {
+            "mxtrCode": "358",
+            "mxtrNm": "울산수산업협동조합",
+            "csmtmktXode": "358004",
+            "csmtmktNm": "강동지점",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "358",
+            "mxtrNm": "울산수산업협동조합",
+            "csmtmktXode": "358003",
+            "csmtmktNm": "공판장",
+            "csgnrCo": "701",
+            "fshrbtCo": "494",
+            "sllllCo": "34",
+            "prvyyTotCnsgnAmount": "15890616100"
+          },
+          {
+            "mxtrCode": "358",
+            "mxtrNm": "울산수산업협동조합",
+            "csmtmktXode": "358002",
+            "csmtmktNm": "유통사업과(사업)",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "358",
+            "mxtrNm": "울산수산업협동조합",
+            "csmtmktXode": "358001",
+            "csmtmktNm": "유통사업과(판매)",
+            "csgnrCo": "388",
+            "fshrbtCo": "517",
+            "sllllCo": "60",
+            "prvyyTotCnsgnAmount": "24979804670"
+          },
+          {
+            "mxtrCode": "358",
+            "mxtrNm": "울산수산업협동조합",
+            "csmtmktXode": "358005",
+            "csmtmktNm": "태화강",
+            "csgnrCo": "11",
+            "fshrbtCo": "13",
+            "sllllCo": "2",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "312",
+            "mxtrNm": "원덕수산업협동조합",
+            "csmtmktXode": "312002",
+            "csmtmktNm": "원덕수협위판장",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "312",
+            "mxtrNm": "원덕수산업협동조합",
+            "csmtmktXode": "312001",
+            "csmtmktNm": "일반부서",
+            "csgnrCo": "336",
+            "fshrbtCo": "407",
+            "sllllCo": "16",
+            "prvyyTotCnsgnAmount": "6628359209"
+          },
+          {
+            "mxtrCode": "360",
+            "mxtrNm": "의창수산업협동조합",
+            "csmtmktXode": "360001",
+            "csmtmktNm": "의창수협수산물위판장",
+            "csgnrCo": "1111",
+            "fshrbtCo": "1168",
+            "sllllCo": "48",
+            "prvyyTotCnsgnAmount": "20513381400"
+          },
+          {
+            "mxtrCode": "303",
+            "mxtrNm": "인천수산업협동조합",
+            "csmtmktXode": "303002",
+            "csmtmktNm": "소래공판장",
+            "csgnrCo": "213",
+            "fshrbtCo": "234",
+            "sllllCo": "25",
+            "prvyyTotCnsgnAmount": "10028295950"
+          },
+          {
+            "mxtrCode": "303",
+            "mxtrNm": "인천수산업협동조합",
+            "csmtmktXode": "303001",
+            "csmtmktNm": "판매팀",
+            "csgnrCo": "500",
+            "fshrbtCo": "507",
+            "sllllCo": "44",
+            "prvyyTotCnsgnAmount": "47614000900"
+          },
+          {
+            "mxtrCode": "303",
+            "mxtrNm": "인천수산업협동조합",
+            "csmtmktXode": "303003",
+            "csmtmktNm": "화수공판장",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "340",
+            "mxtrNm": "장흥군수산업협동조합",
+            "csmtmktXode": "340001",
+            "csmtmktNm": "정남진수산물위판장",
+            "csgnrCo": "1244",
+            "fshrbtCo": "1384",
+            "sllllCo": "44",
+            "prvyyTotCnsgnAmount": "19383458667"
+          },
+          {
+            "mxtrCode": "344",
+            "mxtrNm": "전남동부수산업협동조합",
+            "csmtmktXode": "344001",
+            "csmtmktNm": "본점",
+            "csgnrCo": "4",
+            "fshrbtCo": "0",
+            "sllllCo": "4",
+            "prvyyTotCnsgnAmount": "1121135500"
+          },
+          {
+            "mxtrCode": "344",
+            "mxtrNm": "전남동부수산업협동조합",
+            "csmtmktXode": "344002",
+            "csmtmktNm": "유통사업과(지점)",
+            "csgnrCo": "2",
+            "fshrbtCo": "0",
+            "sllllCo": "2",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "520",
+            "mxtrNm": "전남서부어류양식수산업협동조합",
+            "csmtmktXode": "520003",
+            "csmtmktNm": "유통판매과",
+            "csgnrCo": "84",
+            "fshrbtCo": "1",
+            "sllllCo": "15",
+            "prvyyTotCnsgnAmount": "7096215000"
+          },
+          {
+            "mxtrCode": "520",
+            "mxtrNm": "전남서부어류양식수산업협동조합",
+            "csmtmktXode": "520002",
+            "csmtmktNm": "지도사업과",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "520",
+            "mxtrNm": "전남서부어류양식수산업협동조합",
+            "csmtmktXode": "520001",
+            "csmtmktNm": "총무과",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "505",
+            "mxtrNm": "전남정치망수산업협동조합",
+            "csmtmktXode": "505001",
+            "csmtmktNm": "경제사업",
+            "csgnrCo": "9",
+            "fshrbtCo": "6",
+            "sllllCo": "1",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "517",
+            "mxtrNm": "제1,2구잠수기수산업협동조합",
+            "csmtmktXode": "517005",
+            "csmtmktNm": "거제지소",
+            "csgnrCo": "54",
+            "fshrbtCo": "22",
+            "sllllCo": "28",
+            "prvyyTotCnsgnAmount": "5864833600"
+          },
+          {
+            "mxtrCode": "517",
+            "mxtrNm": "제1,2구잠수기수산업협동조합",
+            "csmtmktXode": "517004",
+            "csmtmktNm": "남해지소",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "517",
+            "mxtrNm": "제1,2구잠수기수산업협동조합",
+            "csmtmktXode": "517002",
+            "csmtmktNm": "마산지소",
+            "csgnrCo": "377",
+            "fshrbtCo": "140",
+            "sllllCo": "36",
+            "prvyyTotCnsgnAmount": "5759767050"
+          },
+          {
+            "mxtrCode": "517",
+            "mxtrNm": "제1,2구잠수기수산업협동조합",
+            "csmtmktXode": "517003",
+            "csmtmktNm": "통영지소",
+            "csgnrCo": "46",
+            "fshrbtCo": "35",
+            "sllllCo": "24",
+            "prvyyTotCnsgnAmount": "5280817290"
+          },
+          {
+            "mxtrCode": "517",
+            "mxtrNm": "제1,2구잠수기수산업협동조합",
+            "csmtmktXode": "517001",
+            "csmtmktNm": "판매과",
+            "csgnrCo": "394",
+            "fshrbtCo": "145",
+            "sllllCo": "67",
+            "prvyyTotCnsgnAmount": "13294000000"
+          },
+          {
+            "mxtrCode": "503",
+            "mxtrNm": "제3.4구잠수기수산업협동조합",
+            "csmtmktXode": "503001",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "80",
+            "fshrbtCo": "98",
+            "sllllCo": "51",
+            "prvyyTotCnsgnAmount": "7081533010"
+          },
+          {
+            "mxtrCode": "370",
+            "mxtrNm": "제주시수산업협동조합",
+            "csmtmktXode": "370001",
+            "csmtmktNm": "판매과",
+            "csgnrCo": "920",
+            "fshrbtCo": "756",
+            "sllllCo": "39",
+            "prvyyTotCnsgnAmount": "57474215118"
+          },
+          {
+            "mxtrCode": "370",
+            "mxtrNm": "제주시수산업협동조합",
+            "csmtmktXode": "370006",
+            "csmtmktNm": "��������",
+            "csgnrCo": "30",
+            "fshrbtCo": "2",
+            "sllllCo": "6",
+            "prvyyTotCnsgnAmount": "827235200"
+          },
+          {
+            "mxtrCode": "516",
+            "mxtrNm": "제주어류양식수산업협동조합",
+            "csmtmktXode": "516006",
+            "csmtmktNm": "사업과",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "516",
+            "mxtrNm": "제주어류양식수산업협동조합",
+            "csmtmktXode": "516001",
+            "csmtmktNm": "유통사업팀",
+            "csgnrCo": "358",
+            "fshrbtCo": "0",
+            "sllllCo": "127",
+            "prvyyTotCnsgnAmount": "250892331800"
+          },
+          {
+            "mxtrCode": "516",
+            "mxtrNm": "제주어류양식수산업협동조합",
+            "csmtmktXode": "516007",
+            "csmtmktNm": "제주해수위판장1",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "516",
+            "mxtrNm": "제주어류양식수산업협동조합",
+            "csmtmktXode": "516008",
+            "csmtmktNm": "제주해수위판장2",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "516",
+            "mxtrNm": "제주어류양식수산업협동조합",
+            "csmtmktXode": "516009",
+            "csmtmktNm": "제주해수위판장3",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "349",
+            "mxtrNm": "죽변수산업협동조합",
+            "csmtmktXode": "349002",
+            "csmtmktNm": "오산지점",
+            "csgnrCo": "42",
+            "fshrbtCo": "45",
+            "sllllCo": "18",
+            "prvyyTotCnsgnAmount": "1378194140"
+          },
+          {
+            "mxtrCode": "349",
+            "mxtrNm": "죽변수산업협동조합",
+            "csmtmktXode": "349001",
+            "csmtmktNm": "일반사업",
+            "csgnrCo": "919",
+            "fshrbtCo": "1101",
+            "sllllCo": "44",
+            "prvyyTotCnsgnAmount": "48001292860"
+          },
+          {
+            "mxtrCode": "313",
+            "mxtrNm": "죽왕수산업협동조합",
+            "csmtmktXode": "313001",
+            "csmtmktNm": "판매과",
+            "csgnrCo": "197",
+            "fshrbtCo": "221",
+            "sllllCo": "51",
+            "prvyyTotCnsgnAmount": "13931960175"
+          },
+          {
+            "mxtrCode": "331",
+            "mxtrNm": "진도군수산업협동조합",
+            "csmtmktXode": "331003",
+            "csmtmktNm": "서망사업소",
+            "csgnrCo": "840",
+            "fshrbtCo": "1044",
+            "sllllCo": "41",
+            "prvyyTotCnsgnAmount": "30077286680"
+          },
+          {
+            "mxtrCode": "331",
+            "mxtrNm": "진도군수산업협동조합",
+            "csmtmktXode": "331002",
+            "csmtmktNm": "접도사업소",
+            "csgnrCo": "179",
+            "fshrbtCo": "187",
+            "sllllCo": "29",
+            "prvyyTotCnsgnAmount": "79735370200"
+          },
+          {
+            "mxtrCode": "331",
+            "mxtrNm": "진도군수산업협동조합",
+            "csmtmktXode": "331005",
+            "csmtmktNm": "조도지점",
+            "csgnrCo": "578",
+            "fshrbtCo": "202",
+            "sllllCo": "15",
+            "prvyyTotCnsgnAmount": "8211087600"
+          },
+          {
+            "mxtrCode": "331",
+            "mxtrNm": "진도군수산업협동조합",
+            "csmtmktXode": "331006",
+            "csmtmktNm": "초사낙지 위판장",
+            "csgnrCo": "93",
+            "fshrbtCo": "97",
+            "sllllCo": "17",
+            "prvyyTotCnsgnAmount": "1762296776"
+          },
+          {
+            "mxtrCode": "331",
+            "mxtrNm": "진도군수산업협동조합",
+            "csmtmktXode": "331001",
+            "csmtmktNm": "판매사업과",
+            "csgnrCo": "101",
+            "fshrbtCo": "58",
+            "sllllCo": "12",
+            "prvyyTotCnsgnAmount": "12046433800"
+          },
+          {
+            "mxtrCode": "331",
+            "mxtrNm": "진도군수산업협동조합",
+            "csmtmktXode": "331004",
+            "csmtmktNm": "회동사업소",
+            "csgnrCo": "150",
+            "fshrbtCo": "152",
+            "sllllCo": "26",
+            "prvyyTotCnsgnAmount": "39650627950"
+          },
+          {
+            "mxtrCode": "361",
+            "mxtrNm": "진해수산업협동조합",
+            "csmtmktXode": "361001",
+            "csmtmktNm": "판매사업과",
+            "csgnrCo": "1234",
+            "fshrbtCo": "1279",
+            "sllllCo": "38",
+            "prvyyTotCnsgnAmount": "9067639300"
+          },
+          {
+            "mxtrCode": "359",
+            "mxtrNm": "창원서부수산업협동조합",
+            "csmtmktXode": "359002",
+            "csmtmktNm": "고현지점",
+            "csgnrCo": "63",
+            "fshrbtCo": "76",
+            "sllllCo": "6",
+            "prvyyTotCnsgnAmount": "25000"
+          },
+          {
+            "mxtrCode": "359",
+            "mxtrNm": "창원서부수산업협동조합",
+            "csmtmktXode": "359001",
+            "csmtmktNm": "광암지소",
+            "csgnrCo": "56",
+            "fshrbtCo": "67",
+            "sllllCo": "8",
+            "prvyyTotCnsgnAmount": "141425000"
+          },
+          {
+            "mxtrCode": "359",
+            "mxtrNm": "창원서부수산업협동조합",
+            "csmtmktXode": "359003",
+            "csmtmktNm": "조합총괄",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "371",
+            "mxtrNm": "추자도수산업협동조합",
+            "csmtmktXode": "371001",
+            "csmtmktNm": "판매과",
+            "csgnrCo": "135",
+            "fshrbtCo": "153",
+            "sllllCo": "39",
+            "prvyyTotCnsgnAmount": "10976456197"
+          },
+          {
+            "mxtrCode": "320",
+            "mxtrNm": "태안남부수산업협동조합",
+            "csmtmktXode": "320006",
+            "csmtmktNm": "당암위판장",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "320",
+            "mxtrNm": "태안남부수산업협동조합",
+            "csmtmktXode": "320003",
+            "csmtmktNm": "드르니위판장",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "320",
+            "mxtrNm": "태안남부수산업협동조합",
+            "csmtmktXode": "320002",
+            "csmtmktNm": "마검포위판장",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "320",
+            "mxtrNm": "태안남부수산업협동조합",
+            "csmtmktXode": "320001",
+            "csmtmktNm": "몽산포위판장",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "320",
+            "mxtrNm": "태안남부수산업협동조합",
+            "csmtmktXode": "320004",
+            "csmtmktNm": "태안남부수협",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "320",
+            "mxtrNm": "태안남부수산업협동조합",
+            "csmtmktXode": "320005",
+            "csmtmktNm": "태안남부수협",
+            "csgnrCo": "347",
+            "fshrbtCo": "432",
+            "sllllCo": "46",
+            "prvyyTotCnsgnAmount": "5693358345"
+          },
+          {
+            "mxtrCode": "362",
+            "mxtrNm": "통영수산업협동조합",
+            "csmtmktXode": "362003",
+            "csmtmktNm": "견유위판장",
+            "csgnrCo": "681",
+            "fshrbtCo": "525",
+            "sllllCo": "83",
+            "prvyyTotCnsgnAmount": "24704039400"
+          },
+          {
+            "mxtrCode": "362",
+            "mxtrNm": "통영수산업협동조합",
+            "csmtmktXode": "362002",
+            "csmtmktNm": "도천위판장",
+            "csgnrCo": "991",
+            "fshrbtCo": "959",
+            "sllllCo": "73",
+            "prvyyTotCnsgnAmount": "13728907450"
+          },
+          {
+            "mxtrCode": "362",
+            "mxtrNm": "통영수산업협동조합",
+            "csmtmktXode": "362004",
+            "csmtmktNm": "삼덕위판장",
+            "csgnrCo": "915",
+            "fshrbtCo": "876",
+            "sllllCo": "55",
+            "prvyyTotCnsgnAmount": "10547167800"
+          },
+          {
+            "mxtrCode": "362",
+            "mxtrNm": "통영수산업협동조합",
+            "csmtmktXode": "362001",
+            "csmtmktNm": "유통판매과",
+            "csgnrCo": "1055",
+            "fshrbtCo": "1408",
+            "sllllCo": "51",
+            "prvyyTotCnsgnAmount": "73696356200"
+          },
+          {
+            "mxtrCode": "513",
+            "mxtrNm": "패류살포양식수산업협동조합",
+            "csmtmktXode": "513001",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "7",
+            "fshrbtCo": "0",
+            "sllllCo": "1",
+            "prvyyTotCnsgnAmount": "253337060"
+          },
+          {
+            "mxtrCode": "351",
+            "mxtrNm": "포항수산업협동조합",
+            "csmtmktXode": "351001",
+            "csmtmktNm": "판매1과",
+            "csgnrCo": "2386",
+            "fshrbtCo": "2350",
+            "sllllCo": "139",
+            "prvyyTotCnsgnAmount": "66073387706"
+          },
+          {
+            "mxtrCode": "363",
+            "mxtrNm": "하동군수산업협동조합",
+            "csmtmktXode": "363002",
+            "csmtmktNm": "금성지점",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "363",
+            "mxtrNm": "하동군수산업협동조합",
+            "csmtmktXode": "363001",
+            "csmtmktNm": "유통사업과",
+            "csgnrCo": "1000",
+            "fshrbtCo": "951",
+            "sllllCo": "37",
+            "prvyyTotCnsgnAmount": "23380579000"
+          },
+          {
+            "mxtrCode": "363",
+            "mxtrNm": "하동군수산업협동조합",
+            "csmtmktXode": "363005",
+            "csmtmktNm": "하동군수협본소",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "363",
+            "mxtrNm": "하동군수산업협동조합",
+            "csmtmktXode": "363004",
+            "csmtmktNm": "하동읍 지점(일반)",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "363",
+            "mxtrNm": "하동군수산업협동조합",
+            "csmtmktXode": "363003",
+            "csmtmktNm": "하동읍지점",
+            "csgnrCo": "4",
+            "fshrbtCo": "1",
+            "sllllCo": "1",
+            "prvyyTotCnsgnAmount": "116000000"
+          },
+          {
+            "mxtrCode": "372",
+            "mxtrNm": "한림수산업협동조합",
+            "csmtmktXode": "372001",
+            "csmtmktNm": "1위판장",
+            "csgnrCo": "779",
+            "fshrbtCo": "998",
+            "sllllCo": "131",
+            "prvyyTotCnsgnAmount": "139051242254"
+          },
+          {
+            "mxtrCode": "332",
+            "mxtrNm": "해남군수산업협동조합",
+            "csmtmktXode": "332006",
+            "csmtmktNm": "북평지점",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "332",
+            "mxtrNm": "해남군수산업협동조합",
+            "csmtmktXode": "332001",
+            "csmtmktNm": "사업과",
+            "csgnrCo": "0",
+            "fshrbtCo": "0",
+            "sllllCo": "0",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "332",
+            "mxtrNm": "해남군수산업협동조합",
+            "csmtmktXode": "332002",
+            "csmtmktNm": "송지지점",
+            "csgnrCo": "180",
+            "fshrbtCo": "16",
+            "sllllCo": "27",
+            "prvyyTotCnsgnAmount": "17975920900"
+          },
+          {
+            "mxtrCode": "332",
+            "mxtrNm": "해남군수산업협동조합",
+            "csmtmktXode": "332005",
+            "csmtmktNm": "어란사업소",
+            "csgnrCo": "394",
+            "fshrbtCo": "21",
+            "sllllCo": "33",
+            "prvyyTotCnsgnAmount": "44378588600"
+          },
+          {
+            "mxtrCode": "332",
+            "mxtrNm": "해남군수산업협동조합",
+            "csmtmktXode": "332009",
+            "csmtmktNm": "해남군수협수산물위판장",
+            "csgnrCo": "108",
+            "fshrbtCo": "82",
+            "sllllCo": "9",
+            "prvyyTotCnsgnAmount": "0"
+          },
+          {
+            "mxtrCode": "332",
+            "mxtrNm": "해남군수산업협동조합",
+            "csmtmktXode": "332004",
+            "csmtmktNm": "화산지점",
+            "csgnrCo": "214",
+            "fshrbtCo": "168",
+            "sllllCo": "76",
+            "prvyyTotCnsgnAmount": "37229746700"
+          },
+          {
+            "mxtrCode": "332",
+            "mxtrNm": "해남군수산업협동조합",
+            "csmtmktXode": "332003",
+            "csmtmktNm": "황산지점",
+            "csgnrCo": "107",
+            "fshrbtCo": "24",
+            "sllllCo": "14",
+            "prvyyTotCnsgnAmount": "4717029800"
+          },
+          {
+            "mxtrCode": "352",
+            "mxtrNm": "후포수산업협동조합",
+            "csmtmktXode": "352001",
+            "csmtmktNm": "총무지도판매사업과",
+            "csgnrCo": "926",
+            "fshrbtCo": "1186",
+            "sllllCo": "89",
+            "prvyyTotCnsgnAmount": "112186701815"
+          }
+        ]
+      },
+      "totalCount": "254"
+    }
+  }
+} 

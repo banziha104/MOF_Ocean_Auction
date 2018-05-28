@@ -11,4 +11,5 @@ class EventModule{
     @Provides
     @Singleton
     fun provideEventBus() : BehaviorSubject<String> = BehaviorSubject.create()
+
 }
