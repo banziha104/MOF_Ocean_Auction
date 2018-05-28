@@ -1,4 +1,4 @@
-package com.example.iyeongjun.ocean_auction.di
+package com.example.iyeongjun.ocean_auction.di.scopes
 
 import javax.inject.Scope
 

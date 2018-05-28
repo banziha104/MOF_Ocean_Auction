@@ -1,10 +1,11 @@
 package com.example.iyeongjun.ocean_auction.di
 
-import com.example.iyeongjun.ocean_auction.di.ui.MainModule
+import com.example.iyeongjun.ocean_auction.di.scopes.PerActivity
+import com.example.iyeongjun.ocean_auction.ui.activities.DetailActivity
 import com.example.iyeongjun.ocean_auction.ui.activities.MainActivity
+import com.example.iyeongjun.ocean_auction.ui.activities.SplashActivity
 import dagger.Module
 import dagger.android.ContributesAndroidInjector
-import javax.inject.Singleton
 
 /**
  * Created by iyeongjun on 2018. 3. 4..
@@ -13,8 +14,18 @@ import javax.inject.Singleton
 @Module
 abstract class ActivityBinder{
 
-    @ContributesAndroidInjector(modules = arrayOf(MainModule::class))
+    @PerActivity
+    @ContributesAndroidInjector(modules = arrayOf())
     abstract fun bindMainActivity() : MainActivity
+
+    @PerActivity
+    @ContributesAndroidInjector(modules = arrayOf())
+    abstract fun bindSplashActivity() : SplashActivity
+
+
+    @PerActivity
+    @ContributesAndroidInjector(modules = arrayOf())
+    abstract fun bindDetailActivity() : DetailActivity
 
 
 //    @ContributesAndroidInjector(modules = arrayOf(ApiModule::class))
