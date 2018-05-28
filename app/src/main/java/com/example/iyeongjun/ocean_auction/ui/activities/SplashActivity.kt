@@ -7,7 +7,7 @@ import com.example.iyeongjun.ocean_auction.api.MofSingleton
 import com.example.iyeongjun.ocean_auction.api.inter.MofApi
 import com.example.iyeongjun.ocean_auction.api.model.mofModel.MofModel
 import com.example.iyeongjun.ocean_auction.api.model.storeModel.StoreModel
-import com.example.iyeongjun.ocean_auction.ex.isoToUtf8
+import com.example.iyeongjun.ocean_auction.ex.toMofModel
 import com.example.iyeongjun.ocean_auction.util.PermissionController
 import com.google.gson.Gson
 import dagger.android.support.DaggerAppCompatActivity
@@ -49,10 +49,7 @@ class SplashActivity : DaggerAppCompatActivity(), AnkoLogger,PermissionControlle
             override fun onResponse(call: Call<ResponseBody>?, response: Response<ResponseBody>?) {
 
                 try {
-                    var a = response?.body()?.string()
-                    val temp1 = a!!.isoToUtf8()
-                    var jsonObj = XML.toJSONObject(temp1).toString()
-                    MofSingleton.mofdata = Gson().fromJson(jsonObj, MofModel::class.java)
+                    MofSingleton.mofdata = response?.body()?.string()!!.toMofModel()
                     startActivity<MainActivity>()
                 } catch (e: Exception) {
                     e.printStackTrace()

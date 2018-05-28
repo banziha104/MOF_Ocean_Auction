@@ -11,11 +11,8 @@ import android.view.ViewGroup
 import com.example.iyeongjun.ocean_auction.R
 import com.example.iyeongjun.ocean_auction.adapter.recycler.MainRecyclerAdapter
 import com.example.iyeongjun.ocean_auction.api.MofSingleton
-import com.example.iyeongjun.ocean_auction.api.model.storeModel.StoreModel
 import kotlinx.android.synthetic.main.fragment_main.*
 import org.jetbrains.anko.AnkoLogger
-import org.jetbrains.anko.info
-import javax.inject.Inject
 
 
 @SuppressLint("ValidFragment")
@@ -24,7 +21,6 @@ class MainFragment(val con : Context) : Fragment(), AnkoLogger {
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         return inflater.inflate(R.layout.fragment_main,container,false)
     }
-
     override fun onResume() {
         super.onResume()
         mainRecyclerview.apply {

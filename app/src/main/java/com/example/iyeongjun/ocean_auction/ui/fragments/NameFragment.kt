@@ -11,7 +11,6 @@ import android.view.ViewGroup
 import com.example.iyeongjun.ocean_auction.R
 import com.example.iyeongjun.ocean_auction.adapter.recycler.NameRecyclerAdapter
 import com.example.iyeongjun.ocean_auction.api.model.storeModel.StoreModel
-import com.example.iyeongjun.ocean_auction.ui.activities.MainActivity
 import kotlinx.android.synthetic.main.fragment_name.*
 
 @SuppressLint("ValidFragment")

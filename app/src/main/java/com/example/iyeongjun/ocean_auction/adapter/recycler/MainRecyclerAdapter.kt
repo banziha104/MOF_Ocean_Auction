@@ -7,7 +7,9 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import com.example.iyeongjun.ocean_auction.R
+import com.example.iyeongjun.ocean_auction.api.model.mofModel.Item
 import com.example.iyeongjun.ocean_auction.api.model.mofModel.MofModel
+import com.example.iyeongjun.ocean_auction.single.dataSingleton
 import com.example.iyeongjun.ocean_auction.ui.activities.DetailActivity
 import org.jetbrains.anko.startActivity
 
@@ -24,20 +26,23 @@ class MainRecyclerAdapter( item : MofModel, val context : Context) : RecyclerVie
     }
 
     override fun onBindViewHolder(holder: MainViewHolder, position: Int) {
-        holder.position = position
+        holder.item = item[position]
         holder.context = context
         holder.txtTitle.text = item[position].mxtrNm
     }
 
 }
 class MainViewHolder (itemView : View) : RecyclerView.ViewHolder(itemView) {
-    var position : Int? = null
+    var item : Item? = null
     var context : Context? = null
     var txtTitle = itemView.findViewById<TextView>(R.id.txtMainTitle)
 
     init { bind() }
 
-    fun bind(){
-        itemView.setOnClickListener { context!!.startActivity<DetailActivity>() }
+    fun bind() {
+        itemView.setOnClickListener {
+            dataSingleton.storeName  = item!!.csmtmktNm
+            context!!.startActivity<DetailActivity>()
+        }
     }
 }

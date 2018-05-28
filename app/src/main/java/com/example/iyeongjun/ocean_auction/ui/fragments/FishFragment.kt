@@ -5,12 +5,9 @@ import android.content.Context
 import android.os.Bundle
 import android.support.v4.app.Fragment
 import android.support.v7.widget.LinearLayoutManager
-import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
-import android.view.MotionEvent
 import android.view.View
 import android.view.ViewGroup
-import android.widget.AdapterView
 import com.example.iyeongjun.ocean_auction.R
 import com.example.iyeongjun.ocean_auction.adapter.recycler.FishRecyclerAdapter
 import com.example.iyeongjun.ocean_auction.res.fishName
