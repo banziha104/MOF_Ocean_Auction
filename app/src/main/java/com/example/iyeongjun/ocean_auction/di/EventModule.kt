@@ -1,4 +1,4 @@
-package com.example.iyeongjun.ocean_auction.di.module
+package com.example.iyeongjun.ocean_auction.di
 
 import dagger.Module
 import dagger.Provides
@@ -11,4 +11,5 @@ class EventModule{
     @Provides
     @Singleton
     fun provideEventBus() : BehaviorSubject<String> = BehaviorSubject.create()
+
 }

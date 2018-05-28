@@ -16,7 +16,7 @@
         <activity
             android:name=".ui.activities.MainActivity"
             android:label="@string/title_activity_main"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".ui.activities.SplashActivity"
             android:theme="@style/AppTheme.NoActionBar">
@@ -26,7 +26,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ui.activities.DetailActivity"></activity>
+        <activity android:name=".ui.activities.DetailActivity" android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".ui.activities.SelectActivity" android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

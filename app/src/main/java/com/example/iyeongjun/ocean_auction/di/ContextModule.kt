@@ -1,4 +1,4 @@
-package com.example.iyeongjun.ocean_auction.di.module
+package com.example.iyeongjun.ocean_auction.di
 
 import android.app.Application
 import dagger.Module

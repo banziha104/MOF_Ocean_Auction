@@ -33,7 +33,7 @@ class MainActivity : DaggerAppCompatActivity(), AnkoLogger{
 
 
     private fun setViewPager() {
-        mainViewpager.adapter = MainPagerAdapter(supportFragmentManager, listOf(MainFragment(),NameFragment(storeData),FishFragment()))
+        mainViewpager.adapter = MainPagerAdapter(supportFragmentManager, listOf(MainFragment(this),NameFragment(storeData,this),FishFragment(this)))
         for (i in 0..2) {
             if (i == 0) tab.addTab(tab.newTab().setIcon(tabClicekdImages[i]).setText(tabNames[i]))
             else tab.addTab(tab.newTab().setIcon(tabDefaultImages[i]).setText(tabNames[i]))

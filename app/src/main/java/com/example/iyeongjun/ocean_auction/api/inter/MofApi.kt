@@ -30,7 +30,7 @@ interface MofApi {
     @GET("/1192000/openapi/service/ManageAcst0400Service/getAcst0400List")
     fun getMOFDataWithFishCode(
             @Query("serviceKey", encoded = true) serviceKey: String = AUTH_KEY,
-            @Query("numOfRows") numOfRows: Int = 50,
+            @Query("numOfRows") numOfRows: Int = 500,
             @Query("pageNo") pageNo: Int = 1,
             @Query("fromDt") fromDt: Int = 20180303,
             @Query("toDt") toDt: Int = 20180305,

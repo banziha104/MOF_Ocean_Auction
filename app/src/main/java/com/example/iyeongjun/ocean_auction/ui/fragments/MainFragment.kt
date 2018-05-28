@@ -1,5 +1,7 @@
 package com.example.iyeongjun.ocean_auction.ui.fragments
 
+import android.annotation.SuppressLint
+import android.content.Context
 import android.os.Bundle
 import android.support.v4.app.Fragment
 import android.support.v7.widget.LinearLayoutManager
@@ -9,11 +11,15 @@ import android.view.ViewGroup
 import com.example.iyeongjun.ocean_auction.R
 import com.example.iyeongjun.ocean_auction.adapter.recycler.MainRecyclerAdapter
 import com.example.iyeongjun.ocean_auction.api.MofSingleton
+import com.example.iyeongjun.ocean_auction.api.model.storeModel.StoreModel
 import kotlinx.android.synthetic.main.fragment_main.*
 import org.jetbrains.anko.AnkoLogger
+import org.jetbrains.anko.info
+import javax.inject.Inject
 
 
-class MainFragment : Fragment(), AnkoLogger {
+@SuppressLint("ValidFragment")
+class MainFragment(val con : Context) : Fragment(), AnkoLogger {
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         return inflater.inflate(R.layout.fragment_main,container,false)
@@ -21,7 +27,9 @@ class MainFragment : Fragment(), AnkoLogger {
 
     override fun onResume() {
         super.onResume()
-        mainRecyclerview.adapter = MainRecyclerAdapter(MofSingleton.mofdata!!)
-        mainRecyclerview.layoutManager = LinearLayoutManager(activity)
+        mainRecyclerview.apply {
+            adapter = MainRecyclerAdapter(MofSingleton.mofdata!!,con)
+            layoutManager = LinearLayoutManager(activity)
+        }
     }
 }

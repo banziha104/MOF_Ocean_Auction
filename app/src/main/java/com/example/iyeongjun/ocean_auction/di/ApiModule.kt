@@ -1,4 +1,4 @@
-package com.example.iyeongjun.ocean_auction.di.module
+package com.example.iyeongjun.ocean_auction.di
 
 import com.example.iyeongjun.ocean_auction.api.inter.MofApi
 import com.example.iyeongjun.ocean_auction.const.SERVER_URL

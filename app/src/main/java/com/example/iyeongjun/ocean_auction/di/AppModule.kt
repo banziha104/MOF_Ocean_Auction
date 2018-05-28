@@ -1,4 +1,4 @@
-package com.example.iyeongjun.ocean_auction.di.module
+package com.example.iyeongjun.ocean_auction.di
 
 import android.content.Context
 import com.example.iyeongjun.ocean_auction.api.StoreObject
