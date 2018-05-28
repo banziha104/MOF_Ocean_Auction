@@ -6,12 +6,14 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import com.example.iyeongjun.ocean_auction.R
+import com.example.iyeongjun.ocean_auction.api.model.storeModel.StoreModel
+import com.example.iyeongjun.ocean_auction.ex.distinctName
 
-class NameRecyclerAdapter( item : List<String> ) : RecyclerView.Adapter<NameViewHolder>() {
-    val item = item
+class NameRecyclerAdapter( item : StoreModel ) : RecyclerView.Adapter<NameViewHolder>() {
+    val item = item.response.body.items.distinctName()
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): NameViewHolder {
-        val view = LayoutInflater.from(parent.context).inflate(R.layout.item_main , parent, false)
+        val view = LayoutInflater.from(parent.context).inflate(R.layout.item_name , parent, false)
         return NameViewHolder(view)
     }
 

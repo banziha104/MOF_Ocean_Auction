@@ -13,5 +13,4 @@ class MainPagerAdapter(fm : FragmentManager, val list : List<Fragment>) : Fragme
     override fun getCount(): Int {
         return list.size
      }
-
 }

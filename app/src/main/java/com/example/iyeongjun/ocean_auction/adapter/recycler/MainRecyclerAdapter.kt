@@ -6,9 +6,10 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import com.example.iyeongjun.ocean_auction.R
+import com.example.iyeongjun.ocean_auction.api.model.mofModel.MofModel
 
-class MainRecyclerAdapter( item : List<String> ) : RecyclerView.Adapter<MainViewHolder>() {
-    val item = item
+class MainRecyclerAdapter( item : MofModel) : RecyclerView.Adapter<MainViewHolder>() {
+    val item = item.response.body.items.item
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MainViewHolder {
         val view = LayoutInflater.from(parent.context).inflate(R.layout.item_main , parent, false)
@@ -20,7 +21,7 @@ class MainRecyclerAdapter( item : List<String> ) : RecyclerView.Adapter<MainView
     }
 
     override fun onBindViewHolder(holder: MainViewHolder, position: Int) {
-        holder.txtTitle.text = item[position]
+        holder.txtTitle.text = item[position].csmtmktNm
     }
 
 }

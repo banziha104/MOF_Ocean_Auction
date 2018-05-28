@@ -11,7 +11,7 @@ class FishRecyclerAdapter( item : List<String> ) : RecyclerView.Adapter<FishView
     val item = item
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): FishViewHolder {
-        val view = LayoutInflater.from(parent.context).inflate(R.layout.item_main , parent, false)
+        val view = LayoutInflater.from(parent.context).inflate(R.layout.item_fish , parent, false)
         return FishViewHolder(view)
     }
 

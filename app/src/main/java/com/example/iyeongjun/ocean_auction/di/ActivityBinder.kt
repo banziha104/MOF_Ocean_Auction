@@ -1,5 +1,7 @@
 package com.example.iyeongjun.ocean_auction.di
 
+import com.example.iyeongjun.ocean_auction.di.scopes.PerActivity
+import com.example.iyeongjun.ocean_auction.ui.activities.DetailActivity
 import com.example.iyeongjun.ocean_auction.ui.activities.MainActivity
 import com.example.iyeongjun.ocean_auction.ui.activities.SplashActivity
 import dagger.Module
@@ -19,6 +21,11 @@ abstract class ActivityBinder{
     @PerActivity
     @ContributesAndroidInjector(modules = arrayOf())
     abstract fun bindSplashActivity() : SplashActivity
+
+
+    @PerActivity
+    @ContributesAndroidInjector(modules = arrayOf())
+    abstract fun bindDetailActivity() : DetailActivity
 
 
 //    @ContributesAndroidInjector(modules = arrayOf(ApiModule::class))

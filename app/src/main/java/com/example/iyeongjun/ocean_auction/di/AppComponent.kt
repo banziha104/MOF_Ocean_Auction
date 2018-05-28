@@ -2,6 +2,10 @@ package com.example.iyeongjun.ocean_auction.di
 
 import android.content.Context
 import com.example.iyeongjun.ocean_auction.Dagger2App
+import com.example.iyeongjun.ocean_auction.di.module.ApiModule
+import com.example.iyeongjun.ocean_auction.di.module.AppModule
+import com.example.iyeongjun.ocean_auction.di.module.ContextModule
+import com.example.iyeongjun.ocean_auction.di.module.EventModule
 import dagger.BindsInstance
 import dagger.Component
 import dagger.android.AndroidInjector
@@ -11,11 +15,11 @@ import javax.inject.Singleton
 @Singleton
 @Component(modules = arrayOf(
         ActivityBinder::class
-        ,ContextModule::class
+        , ContextModule::class
         ,AndroidSupportInjectionModule::class
-        ,EventModule::class
-        ,AppModule::class
-        ,ApiModule::class
+        , EventModule::class
+        , AppModule::class
+        , ApiModule::class
 ))
 interface AppComponent : AndroidInjector<Dagger2App>{
 
