@@ -24,7 +24,7 @@ interface MofApi {
             @Query("pageNo") pageNo: Int = 1,
             @Query("fromDt") fromDt: Int = 20180303,
             @Query("toDt") toDt: Int = 20180305,
-            @Query("csmtmktNm") csmtmktNm: String
+            @Query("mxtrNm", encoded = false) mxtrNm: String
     ): Call<ResponseBody>
 
     @GET("/1192000/openapi/service/ManageAcst0400Service/getAcst0400List")
@@ -34,7 +34,7 @@ interface MofApi {
             @Query("pageNo") pageNo: Int = 1,
             @Query("fromDt") fromDt: Int = 20180303,
             @Query("toDt") toDt: Int = 20180305,
-            @Query("mprcStdCode") mprcStdCode: String
+            @Query("mprcStdCodeNm", encoded = false) mprcStdCodeNm: String
     ): Call<ResponseBody>
 
 

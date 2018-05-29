@@ -11,7 +11,10 @@ import com.example.iyeongjun.ocean_auction.api.model.mofModel.Item
 import com.example.iyeongjun.ocean_auction.api.model.mofModel.MofModel
 import com.example.iyeongjun.ocean_auction.single.dataSingleton
 import com.example.iyeongjun.ocean_auction.ui.activities.DetailActivity
+import com.example.iyeongjun.ocean_auction.ui.activities.SelectActivity
+import com.github.mikephil.charting.data.BarData
 import org.jetbrains.anko.startActivity
+import org.w3c.dom.Text
 
 class MainRecyclerAdapter( item : MofModel, val context : Context) : RecyclerView.Adapter<MainViewHolder>() {
     val item = item.response.body.items.item
@@ -26,23 +29,29 @@ class MainRecyclerAdapter( item : MofModel, val context : Context) : RecyclerVie
     }
 
     override fun onBindViewHolder(holder: MainViewHolder, position: Int) {
+
+        for(i in 0..6) {
+            //TODO : 여기합시다
+        }
         holder.item = item[position]
         holder.context = context
-        holder.txtTitle.text = item[position].mxtrNm
+        holder.txtTitle.text = "   "+item[position].mxtrNm
+        holder.txtSubtitle.text = "   "+item[position].csmtmktNm + " · " +item[position].mprcStdCodeNm + " · 최고가 : " + item[position].hghpc
     }
 
 }
 class MainViewHolder (itemView : View) : RecyclerView.ViewHolder(itemView) {
     var item : Item? = null
     var context : Context? = null
-    var txtTitle = itemView.findViewById<TextView>(R.id.txtMainTitle)
-
+    val txtTitle = itemView.findViewById<TextView>(R.id.txtMainTitle)
+    val txtSubtitle = itemView.findViewById<TextView>(R.id.txtMainSubtitle)
     init { bind() }
 
     fun bind() {
         itemView.setOnClickListener {
-            dataSingleton.storeName  = item!!.csmtmktNm
-            context!!.startActivity<DetailActivity>()
+            dataSingleton.storeName  = item!!.mxtrNm
+            context!!.startActivity<SelectActivity>()
         }
     }
+
 }

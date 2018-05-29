@@ -1,12 +1,20 @@
 package com.example.iyeongjun.ocean_auction.ui.activities
 
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
+import android.support.v7.widget.GridLayoutManager
+import android.support.v7.widget.LinearLayoutManager
+import android.view.View
 import com.example.iyeongjun.ocean_auction.R
+import com.example.iyeongjun.ocean_auction.adapter.recycler.SelectRecyclerAdapterFish
+import com.example.iyeongjun.ocean_auction.adapter.recycler.SelectRecyclerAdapterStore
 import com.example.iyeongjun.ocean_auction.api.inter.MofApi
+import com.example.iyeongjun.ocean_auction.api.model.mofModel.MofModel
+import com.example.iyeongjun.ocean_auction.ex.isoToUtf8
 import com.example.iyeongjun.ocean_auction.ex.toMofModel
 import com.example.iyeongjun.ocean_auction.single.dataSingleton
+import com.google.gson.Gson
 import dagger.android.support.DaggerAppCompatActivity
+import kotlinx.android.synthetic.main.activity_select.*
 import okhttp3.ResponseBody
 import org.jetbrains.anko.AnkoLogger
 import org.jetbrains.anko.info
@@ -22,15 +30,25 @@ class SelectActivity : DaggerAppCompatActivity(), AnkoLogger {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_select)
+        selectProgressBar.visibility = View.VISIBLE
         checkData()
         returnApi().enqueue(object : Callback<ResponseBody>{
             override fun onFailure(call: Call<ResponseBody>?, t: Throwable?) {
 
             }
-
             override fun onResponse(call: Call<ResponseBody>?, response: Response<ResponseBody>?) {
                 val data = response?.body()?.string()?.toMofModel()
-                // TODO : 영준씨 여기부터합시다
+
+                selectRecyclerview.apply{
+                    if(hasStore){
+                        adapter = SelectRecyclerAdapterFish(data!!,this@SelectActivity)
+                        layoutManager = GridLayoutManager(this@SelectActivity,2)
+                    } else {
+                        adapter = SelectRecyclerAdapterStore(data!!,this@SelectActivity)
+                        layoutManager = LinearLayoutManager(this@SelectActivity)
+                    }
+                    selectProgressBar.visibility = View.INVISIBLE
+                }
             }
         })
     }
@@ -43,7 +61,7 @@ class SelectActivity : DaggerAppCompatActivity(), AnkoLogger {
     }
 
     private fun returnApi() : Call<ResponseBody> {
-        if (hasStore) return api.getMOFDataWithStorename(csmtmktNm = dataSingleton.storeName)
-        else return api.getMOFDataWithFishname(mprcStdCode = dataSingleton.fishName )
+        if (hasStore) return api.getMOFDataWithStorename(mxtrNm = dataSingleton.storeName)
+        else return api.getMOFDataWithFishname(mprcStdCodeNm = dataSingleton.fishName )
     }
 }

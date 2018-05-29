@@ -4,6 +4,7 @@ import android.annotation.SuppressLint
 import android.content.Context
 import android.os.Bundle
 import android.support.v4.app.Fragment
+import android.support.v7.widget.GridLayoutManager
 import android.support.v7.widget.LinearLayoutManager
 import android.view.LayoutInflater
 import android.view.View
@@ -23,7 +24,7 @@ class FishFragment(val con : Context) : Fragment() {
         super.onResume()
         fishRecyclerview.apply {
             adapter = FishRecyclerAdapter(fishName,con)
-            layoutManager = LinearLayoutManager(activity)
+            layoutManager = GridLayoutManager(activity,2)
         }
     }
 }
