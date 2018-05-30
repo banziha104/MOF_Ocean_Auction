@@ -52,6 +52,8 @@ class MainActivity : DaggerAppCompatActivity(), AnkoLogger{
             }
         })
     }
+
+    override fun onBackPressed() {}
     private fun setSelectedIamge(tabs : TabLayout.Tab) = tabs.setIcon(tabClicekdImages[tabs.position])
     private fun setUnSelectedIamge(tabs : TabLayout.Tab) = tabs.setIcon(tabDefaultImages[tabs.position])
 }
