@@ -12,7 +12,6 @@ import com.example.iyeongjun.ocean_auction.api.model.mofModel.MofModel
 import com.example.iyeongjun.ocean_auction.single.dataSingleton
 import com.example.iyeongjun.ocean_auction.ui.activities.DetailActivity
 import com.example.iyeongjun.ocean_auction.ui.activities.SelectActivity
-import com.github.mikephil.charting.data.BarData
 import org.jetbrains.anko.startActivity
 import org.w3c.dom.Text
 
@@ -29,9 +28,9 @@ class MainRecyclerAdapter( item : MofModel, val context : Context) : RecyclerVie
     }
 
     override fun onBindViewHolder(holder: MainViewHolder, position: Int) {
-
+        val temp : List<Pair<String, String>> = listOf()
         for(i in 0..6) {
-            //TODO : 여기합시다
+            //TODO : 여기
         }
         holder.item = item[position]
         holder.context = context
